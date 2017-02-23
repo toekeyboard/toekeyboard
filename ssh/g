@@ -1,0 +1,107 @@
+#<username>: toekeyboard
+#<password>: toekeyboard123
+
+#Usage:  g <comment>
+
+#signup
+	#github.com	-> Sign-up
+	#https://github.com/join?source=header-home
+#Username: <username>
+#Email: <username>@mailinator.com
+	#verify email:		https://www.mailinator.com/inbox2.jsp?public_to=<username>#/#public_maildirdiv
+#Password: <password>	(au moins sept characters)
+
+
+
+
+
+
+
+
+#New Repository
+#mkdir -p <username>/ssh
+#mkdir -p <username>/<username>.github.io/ssh
+#mkdir -p <username>/<username>.github.io/board.net
+
+
+#git init
+#git remote add origin git@github.com:<username>/<repo>.git
+
+#autres:
+	#git remote add origin git@github.com:<username>/<username>.github.io.git
+
+	#git add . && git commit -a -m "."
+	#git push -u origin master
+	#git remote set-url origin git@github.com:<username>/<repo>
+		#git remote set-url origin git@github.com:<username>/<username>.github.io
+
+
+
+#in <user>.github.io/$
+#rsync -vaxr --exclude=ssh/ --exclude=.git/ --exclude=board.net/ ../../<vieux>/<vieux>.github.io/ .
+	#rsync -vaxr --exclude=ssh/ --exclude=.git/ ../../../<vieux>/<vieux>.github.io/ ../
+
+#dans vim:   :%s/<vieux>/<nouveau>/ig
+	#:%s/<vieux>/<nouveau>/igc
+
+
+
+#in ssh/$
+#rsync ../../<vieux>/<vieux>/ssh/g .
+#ssh-keygen -t rsa -C "<username>"			
+	#Enter file in which to save the key: ./id_rsa
+	#Enter passphrase (empty for no passphrase):		(no password)
+
+	#pas necessaire		./ssh$ ssh -T -ai ./id_rsa git@github.com
+
+
+
+#in github.com
+#Settings -> SSH and GPG Keys -> New SSH key
+	#<user>/ssh$cat id_rsa.pub
+
+	#https://help.github.com/articles/connecting-to-github-with-ssh/
+	#https://help.github.com/articles/signing-commits-with-gpg/
+
+
+
+
+pkill ssh-agent
+pgrep ssh-agent
+
+eval $(ssh-agent)
+ssh-add ./id_rsa
+#ssh-add -l
+
+
+version=`date +'%Y-%m-%d'`
+sed -i 's/Version:.*/Version: '$version'/g' ../README.md
+
+
+#pushd ..
+#pwd
+cd ..
+
+#annotate.  si vide, mettre "."
+#read -p "Annotate:" annotate
+annotate=$@
+if [ -z "$annotate" ]; then
+	annotate="."
+	#annotate=`date +'%Y-%m-%d'`
+fi
+
+git add . && git commit -a -m "$annotate"
+#git add . && git commit -a -m "."
+
+git push -u origin master
+#git push -f -u origin master		//force, overwrite changes?
+
+#sleep 1
+
+#popd
+
+
+pkill ssh-agent
+pgrep ssh-agent
+
+

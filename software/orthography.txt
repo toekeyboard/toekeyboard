@@ -1,0 +1,4725 @@
+# ----Universal
+https://en.wikipedia.org/wiki/Dichotomic_search
+https://en.wikipedia.org/wiki/Dichotomic_search#/media/File:Morse_code_tree3.png
+
+https://en.wikipedia.org/wiki/Morse_code#Letters.2C_numbers.2C_punctuation.2C_prosigns_for_Morse_code_and_non-English_variants
+
+1			L R R R R 
+2			L L R R R 
+3			L L L R R 
+4			L L L L R 
+5			L L L L L 
+
+6			R L L L L 
+7			R R L L L 
+8			R R R L L 
+9			R R R R L 
+0			R R R R R 
+
+ENTER			R (hold for 2 secs)
+Backspace		L (hold for 2 secs)
+SPACE			L and R at same time
+On/Off			L and R at same time (hold for 2 secs)
+
+Period [.] 		L R L R L R 
+Semicolon [;] 		R L R L R L  
+Comma [,] 		R R L L R R 
+Question Mark [?] 	L L R R L L  
+Exclamation Point [!]	R L R L R R 
+
+At Sign [@]		L R R L R L 
+Hashtag [#]		R L L R L R			(made up. opposite @ sign)
+
+Plus/Add sign [+]		L R L R L 
+Hyphen/Minus/Subtract Sign [-] 	R L L L L R  
+Slash/Fraction/Divide Bar [/] 	R L L R L  
+Multiply [*]			L R R L R (made up. opposite divide sign)
+
+Parenthesis open [(] 	R L R R L 
+Parenthesis close [)] 	R L R R L R  
+Apostrophe [']		L R R R R L  
+Ampersand [&]		L R L L L 
+Colon [:] 		R R R L L L  
+Double Dash [=] 	R L L L R  
+
+Underscore [_]		L L R R L R 
+Quotation mark ["]	L L L R L L R 
+
+Alt (. & - double tap?)	(. & -) x2
+ARROW KEYS [Up] [Down] [Left] [Right]
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Prosigns_for_Morse_code
+https://en.wikipedia.org/wiki/Morse_code_abbreviations
+
+
+https://fr.wikipedia.org/wiki/Disposition_des_touches_des_claviers_informatiques#AZERTY
+https://en.wikipedia.org/wiki/Digraph_%28orthography%29
+https://en.wikipedia.org/wiki/Ch_%28digraph%29
+https://en.wikipedia.org/wiki/Morse_code#Letters.2C_numbers.2C_punctuation.2C_prosigns_for_Morse_code_and_non-English_variants
+
+
+
+
+# ----Music
+#on/off - 2 secs
+
+				  Start
+			 /     		       \
+		       Stop                  Play/Pause
+		    /        \       	  /             \
+		Previous     Rewind	Fast Forward	Next
+		/              \                           \
+	Volume Down          Record                      Volume Up
+
+
+
+
+
+				Start
+			 /                 \
+		       Stop              Play/Pause
+		    /        \         /             \
+		Rewind     Record     Mix	Fast Forward
+		/                                       \
+	Volume Down                                     Volume Up
+
+
+
+
+
+
+# ----Browsing
+
+              Start
+        /                 \
+    Page Up             Page Down
+  /         \         /           \
+Left        Up      Down	 Right
+
+
+
+# ----English
+https://en.wikipedia.org/wiki/Keyboard_layout
+
+
+--english dictionary
+http://www.webster-dictionary.net/Index-a
+http://en.thefreedictionary.com/Browse-A
+
+
+          Start
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY ZQ .-
+
+EIASURWHVF-L-PJ
+Every individual achieves serendipity unless really whinny hipsters voices fustration - let - people jam
+Every individual attains superpowers using really wicked hip vibrations furiously - letting - people jive
+Eagles idle attentively searching ugly ravens while high vortexes fluctuate - like - popping jazz
+
+TNMDKGOBXCYZQ.-
+The nasty men do killing games over breakfast x-raying children yearning zoo quests . -
+Talking numbers means dealing kids grief only because x-rated children yell zero quips . -
+The ninga master does karate grips on bad x-ray children yelling zealous quarrels . -
+
+
+           Start (goofy)
+      /            \
+     T              E
+    / \            / \
+   M   N          A   I
+  /\   /\        /\   /\
+ O G   K D      W R   U S
+/\ /\ /\ /\    /\ /\ /\ /\
+-. QZ YC XB    JP -L -F VH
+
+The mean nanny only gives kick downs - . quit zoolander y chime xylophone beats
+Even active individuals want really useless stuff just plain - lazy - feeling very high
+
+
+
+
+![alt tag](https://github.com/morsecodedichotomicsearch/morsecodedichotomicsearch/blob/master/success_morse.jpg?raw=true)
+![alt tag](https://github.com/morsecodedichotomicsearch/morsecodedichotomicsearch/blob/master/success_morse_goofy.jpg?raw=true)
+
+
+
+
+
+           Start (easy)
+      /            \
+     A              N
+    / \            / \
+   B   C          O   P
+  /\   /\        /\   /\
+ D E   F G      Q  R  S T
+/\ /\ /\       /\  /\ /\ 
+HI JK LM       UV  WX YZ
+
+
+
+
+
+# ----Italiano
+http://www.smartkeyboardsolutions.com/images/Italian-10038-zoom.gif
+http://www.seasip.info/AmstradXT/1512tech/a1a5.png
+
+https://en.wikipedia.org/wiki/Italian_orthography
+https://it.wikipedia.org/wiki/Ortografia_della_lingua_italiana
+
+--dizionario italiano
+http://it.thefreedictionary.com/Browse-A
+
+
+          Inizio
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY ZQ .-
+
+EIASURWHVF-L-PJ
+
+TNMDKGOBXCYZQ.-
+
+
+         Inizio
+      /           \
+     é             è
+    / \           / \
+   í   ì         ó   ò
+  /\   /\        
+ ú ù   . à
+
+
+         Inizio
+      /           \
+     é             ò
+    / \           / \
+   í   è         ó   -
+  /\   /\        
+ ú  ì  . à
+/\ 
+. ù
+
+
+
+
+
+# ----Español
+http://www.seasip.info/AmstradXT/1512tech/a1a5.png
+
+https://es.wikipedia.org/wiki/Distribuci%C3%B3n_del_teclado
+
+--Diccionario de español
+http://es.thefreedictionary.com/Browse-A
+
+	Comienzo
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- LÑ PJ   BX CY ZQ Ç-
+
+EIASURWHVF-LÑPJ
+
+TNMDKGOBXCYZQÇ-
+
+
+https://en.wikipedia.org/wiki/Spanish_manual_alphabet
+
+
+# ----Esperanto
+https://eo.wikipedia.org/wiki/Klavarfasono
+https://sites.google.com/site/windowskeyboards/_/rsrc/1219121190287/Home/EsperantoKeyboard.jpg
+
+https://en.wikipedia.org/wiki/Esperanto_orthography
+https://eo.wikipedia.org/wiki/Esperanta_alfabeto
+
+--esperanto vortaro
+http://www.reta-vortaro.de/revo/
+https://en.wikipedia.org/wiki/Reta_Vortaro
+
+	Komenco
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S Ŝ  U Ŭ      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HĤ FĜ LV JĴ   CĈ BP ZR .-
+
+
+EIASŜUŬHĤFĜLVJĴ   
+
+TNMDKGOCĈBPZR.-
+
+
+
+# ----Français
+https://fr.wikipedia.org/wiki/Disposition_des_touches_des_claviers_informatiques
+
+https://en.wikipedia.org/wiki/French_orthography
+
+https://en.wikipedia.org/wiki/AZERTY
+http://www.linternaute.com/dictionnaire/fr/
+
+http://fr.thefreedictionary.com/Browse-A
+
+
+..................................
+utilisant AZERTY
+  	  Début
+      /           \
+     E             T
+    / \           / \
+   I   Q         N   M
+  /\   /\       /\   /\
+ S U   R Z     D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY WA .-
+
+
+EIQSURZHVF-L-PJ
+Egalite ici quand seulement une realite zero homme veux fabriquer - leur - pieds jamais
+
+
+TNMDKGOBXCYWA .-
+Tu ne montre dix kilometre gagner obligation baignez xenophilies car y web allez
+
+
+..................................
+utilisant QWERTY
+  	  Début
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY ZQ .-
+
+
+
+
+
+
+  	  Début (Alt)
+      /           \
+     é             à
+    / \           / \
+   î   è         ô   â
+  /\   /\       /\   /\
+ ï ú  ë  ê     ç œ     æ
+/\ /\ 
+ÿ- ü û
+
+
+
+
+# ----Català
+https://ca.wikipedia.org/wiki/Mapes_de_teclats
+
+https://en.wikipedia.org/wiki/Catalan_orthography
+https://ca.wikipedia.org/wiki/Ortografia_del_catal%C3%A0
+
+	Començar
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY ZQ .-
+
+
+EIASURWHVF-L-PJ   
+
+TNMDKGOBXCYZQ.-
+
+
+
+
+  	  Començar (Alt)
+      /           \
+     é             ò
+    / \           / \
+   í   è         ó   ú
+  /     \       /     \
+ ï       à     ç       ü
+
+  
+
+
+
+# ----Dansk
+https://da.wikipedia.org/wiki/Tastaturlayout
+
+http://media.tumblr.com/34547fba1375a20be7cb52957b08b114/tumblr_inline_mh6jlxW0PJ1r3b5us.jpg
+
+https://en.wikipedia.org/wiki/Danish_orthography
+
+--dansk ordbog
+
+	Starte
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV FÅ LÆ PJ   BX CY ZQ .Ø
+
+EIASURWHVFÅLÆPJ   
+
+TNMDKGOBXCYZQ.Ø
+
+
+
+# ----Nederlands
+https://nl.wikipedia.org/wiki/Toetsenbordindeling
+http://nl.thefreedictionary.com/Browse-A
+
+  	  Begin
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV FÜ LÄ PJ   BX CZ YQ Ö-
+
+
+EIASURWHVFÜLÄPJ
+
+TNMDKGOBXCYZQÖ-
+
+
+
+
+
+# ----Deutsch
+https://de.wikipedia.org/wiki/Tastaturbelegung
+http://de.thefreedictionary.com/Browse-A
+
+https://de.wikipedia.org/wiki/Datei:German-Keyboard-Layout-T2-Version1-large.png
+
+	 Anfang
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV FÜ LÄ PJ   BX CY ZQ Ö-
+
+
+EIASURWHVFÜLÄPJ
+Ein individualist auch suchen um reissen wann heute viele falke über land Ä pfanne jetzt
+
+TNMDKGOBXCYZQÖ-
+Tinder nein mein doch kann gibst oft baby X ciao Y zoo quantitat Öber -
+
+
+
+
+
+
+# ----Magyar
+https://hu.wikipedia.org/wiki/Billenty%C5%B1zetkioszt%C3%A1s
+
+	Indítás
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+# ----Norsk nynorsk
+https://nn.wikipedia.org/wiki/Tastaturoppsett
+http://no.thefreedictionary.com/Browse-A
+https://nn.wikipedia.org/wiki/Fil:KB_Norway.svg
+
+https://en.wikipedia.org/wiki/Norwegian_orthography
+
+
+	Begynne
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV FÆ LØ PJ   BX CY ZQ Å-
+
+
+EIASURWHVFÆLØPJ 
+
+TNMDKGOBXCYZQÅ-
+
+
+
+# ----Polski
+https://pl.wikipedia.org/wiki/Uk%C5%82ad_klawiatury
+http://pl.thefreedictionary.com/Browse-A
+
+https://en.wikipedia.org/wiki/Polish_orthography
+
+https://pl.wikipedia.org/wiki/Kod_Morse%E2%80%99a#Pomoc_mnemotechniczna
+
+	Początek
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY ZQ .-
+
+
+
+
+# ----Português
+https://pt.wikipedia.org/wiki/Layout_de_teclado
+http://pt.thefreedictionary.com/Browse-A
+
+	Começar
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+
+
+
+
+
+
+
+
+# ----العربية
+https://ar.wikipedia.org/wiki/%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%84%D9%88%D8%AD%D8%A9_%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD
+https://en.wikipedia.org/wiki/Arabic_keyboard
+
+https://en.wikipedia.org/wiki/Arabic_alphabet
+
+
+
+--القاموس العربي
+http://www.almaany.com/
+http://www.almaany.com/ar/dict/ar-ar/
+
+
+
+           Start
+      /            \
+     T              E
+    / \            / \
+   M   N          A   I
+  /\   /\        /\   /\
+ O G   K D      W R   U S
+/\ /\ /\ /\    /\ /\ /\ /\
+-. QZ YC XB    JP -L -F VH
+   
+              بداية 
+       \               /
+     س                  ت
+    \    /          \      /
+   ه      ا         ن       م
+  \  /   \  /     \   /   \   /
+ ش   U   ر   و    ذ   ك   ح   O
+\ / \ / \ / \ /  \ / \ / \ / \ /
+ص V ف - ل - غ ج  ب ظ ض ي ز ق . -
+ 
+
+
+              بداية 
+       /               \
+     س                  ت
+    /    \          /      \
+   ه      ا         ن       م
+  /  \   /  \     /   \   /   \
+ ش   U   ر   و    ذ   ك   ح   O
+/ \ / \ / \ / \  / \ / \ / \ / \
+ص V ف - ل - غ ج  ب ظ ض ي ز ق . -
+ 
+
+
+
+
+
+
+
+س ه ا ش U ر و ص V ف - ل - غ ج
+ت ن م ذ ك ح O ب ظ ض ي ز ق
+
+
+              بداية (Alt-1) 
+
+
+ ث	 	 	 	 	 	خ 	د 	 	 	 	 	 	 	 	ط 	 	ع 	 	 	 	 	 	 	 	 	 	
+
+
+
+
+ا 	ب 	ت 	ث 	ج 	ح 	خ 	د 	ذ 	ر 	ز 	س 	ش 	ص 	ض 	ط 	ظ 	ع 	غ 	ف 	ق 	ك 	ل 	م 	ن 	ه 	و 	ي
+
+
+
+
+
+
+
+
+
+
+# ----فارسی
+https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D8%B5%D9%81%D8%AD%D9%87%E2%80%8C%DA%A9%D9%84%DB%8C%D8%AF
+     	  شروع
+       \         /
+    \/            \/
+  \/  \/        \/   \/
+\/ \/ \/ \/   \/ \/ \/ \/
+
+
+
+
+
+
+
+
+
+
+
+
+# ----Bahasa Indonesia
+https://id.wikipedia.org/wiki/Tata_letak_keyboard
+	Mulai
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+
+# ----Čeština
+https://cs.wikipedia.org/wiki/Rozlo%C5%BEen%C3%AD_kl%C3%A1ves
+
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+
+# ----Eesti
+https://et.wikipedia.org/wiki/Colemak
+
+	  Algus
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+
+
+
+
+# ----한국어
+https://ko.wikipedia.org/wiki/%EC%9E%90%ED%8C%90_%EB%B0%B0%EC%97%B4
+https://commons.wikimedia.org/wiki/Category:Korean_keyboard_layouts
+https://en.wikipedia.org/wiki/Korean_language_and_computers
+
+https://en.wikipedia.org/wiki/Hangul_Syllables
+https://en.wikipedia.org/wiki/File:KB_South_Korea.svg
+https://upload.wikimedia.org/wikipedia/commons/1/1d/KB_South_Korea.svg
+
+
+https://en.wikipedia.org/wiki/Korean_language#Writing_system
+
+.......................................
+https://en.wikipedia.org/wiki/Hangul_Jamo_%28Unicode_block%29
+
+          Start
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY ZQ .-
+   	
+
+      	         스타트
+          /               \
+          ㄷ                   ㅅ
+      /     \           /      \
+    ㅑ        ㅁ         ㅜ          ㅡ
+    /\      /\        /\         /\
+  ㄴ   ㅕ   ㄱ   ㅈ    ㅇ   ㅏ      ㅎ  ㅒ
+ /\   /\  /\  /\    /\   /\    /\  /\
+ㅗ ㅍ  ㄹ- ㅣ- ㅔ ㅓ   ㅠㅌ ㅊ ㅛ  ㅋ ㅂ .-
+
+
+
+      	         스타트 (Alt)
+          /               \
+          ㅃ                  ㄸ 	
+      /     \           /      \
+     ㅐ       ㅆ          ㅉ 	ㄲ 	 	 	 	 	 	 	
+    /\      /\        /\         /\
+  ㅖ  ㅚ     ㅢ ㅟ      ㅞ ㅙ 	ㅘ ㅝ	 	 	 	
+ /\   /\  /\  /\    /\   /\    /\  /\
+
+
+
+
+Consonants 
+ 	 	 	 	 	
+
+Vowels 
+
+
+
+
+
+
+
+Consonants 
+ 	ㅂ 	ㄷ 	ㅈ 	ㄱ 	ㅃ 	ㄸ 	ㅉ 	ㄲ 	ㅍ 	ㅌ 	ㅊ 	ㅋ 	ㅅ 	ㅎ 	ㅆ 	ㅁ 	ㄴ 	ㅇ 	ㄹ
+
+Vowels 
+ 	ㅣ 	ㅔ 	ㅚ 	ㅐ 	ㅏ 	ㅗ 	ㅜ 	ㅓ 	ㅡ 	ㅢ 	ㅖ 	ㅒ 	ㅑ 	ㅛ 	ㅠ 	ㅕ 	ㅟ 	ㅞ 	ㅙ 	ㅘ 	ㅝ
+
+
+
+         스타트
+          /               \
+          ᆮ                   ᆺ
+      /     \          /        \
+    ᅣ        ᆷ         ᅮ           ᅳ
+    /\      /\        /\         /\
+  ᆫ   ᅧ   ᆨ   ᄌ    ᆼ   ᅡ      ᇂ  ᅢ
+ /\   /\  /\  /\    /\   /\    /\  /\
+ᅩ ᇁ  ᆯ- ᅵ- ᅦ ᅥ   ᅲᄐ ᄎ ᅭ  ᆿ ᆸ .-
+
+
+
+.......................................
+https://en.wikipedia.org/wiki/List_of_Hangul_jamo
+0ther:
+
+	  스타트
+      /          \
+     ㄷ             ㅅ
+    / \          / \
+   ㅑ   ㅁ        ㅜ   ㅡ
+  /\   /\      /\   /\
+ ㄴ ㅕ ㄱ W     ㅇㅏ   ㄶ ㅐ
+/\ /\ /\ /\   /\ /\ /\ /\
+ㅗV ㄹ- ㅣ- ㅔㅓ   ㅠX Cㅛ Zㅂ .-
+
+
+Initial Jamo
+
+    	ㄱ
+    ㄲ
+    	ㄴ
+    	ㄷ
+
+    ㄸ
+    ㄹ
+    	ㅁ
+    ㅂ
+
+    ㅃ
+    	ㅅ
+    ㅆ
+    	ㅇ
+
+Medial Jamo
+
+    	ㅏ
+    	ㅐ
+    	ㅑ
+    ㅒ
+    	ㅓ
+    	ㅔ
+    	ㅕ
+
+    ㅖ
+    	ㅗ
+    ㅘ
+    ㅙ
+    ㅚhttps://meta.wikimedia.org/wiki/List_of_Wikipedias
+    	ㅛ
+    	ㅜ
+
+    ㅝ
+    ㅞ
+    ㅟ
+    	ㅠ
+    	ㅡ
+    ㅢ
+    	ㅣ
+
+Final Jamo
+
+    no jamo
+    ㄱ
+    ㄲ
+    ㄳ
+    ㄴ
+    ㄵ
+    	ㄶ
+
+    ㄷ
+    ㄹ
+    ㄺ
+    ㄻ
+    ㄼ
+    ㄽ
+    ㄾ
+
+    ㄿ
+    ㅀ
+    ㅁ
+    ㅂ
+    ㅄ
+	    ㅅ
+    ㅆ
+
+
+
+
+
+
+
+# ----हिन्दी
+https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%AA%E0%A4%9F%E0%A4%B2_%E0%A4%B2%E0%A5%87%E0%A4%86%E0%A4%89%E0%A4%9F
+
+https://upload.wikimedia.org/wikipedia/commons/e/e9/Keyboard_Layout_Sanskrit.png
+https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%AA%E0%A4%9F%E0%A4%B2_%E0%A4%B2%E0%A5%87%E0%A4%86%E0%A4%89%E0%A4%9F#/media/File:Devanagari_INSCRIPT_Keyboard.JPG
+
+https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%AA%E0%A4%9F%E0%A4%B2_%E0%A4%B2%E0%A5%87%E0%A4%86%E0%A4%89%E0%A4%9F#/media/File:Devanagari_INSCRIPT_Keyboard.JPG
+
+https://en.wikipedia.org/wiki/Devanagari
+
+          Start
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY ZQ .-
+
+
+top
+
+
+bottom
+	     प्रारंभ
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY ZQ .-
+
+
+	प्रारंभ
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+  	       प्रारंभ
+      /           \
+           आ                              फ
+    / \           / \
+        ज   ओ     	    ळ    M
+  /\  /\        /\   /\
+    ए U  ई ऐ                 D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+ऋ V इ - L- झ ऱ    ऴ ँ  ण अ ऐ ऑ .-
+
+
+ऀ 	ँ 	ं 	ः 	ऄ 	 	 	 	ई 	उ 	ऊ 	 	ऌ 	ऍ 	ऎ 	
+ 	ऑ 	ऒ 	ओ 	औ 	क 	ख 	ग 	घ 	ङ 	च 	छ 	ज 	 	ञ 	ट
+ठ 	ड 	ढ 	 	त 	थ 	द 	ध 	न 	ऩ 	प 	फ 	ब 	भ 	म 	य
+र 	 	ल 	ळ 	 	व 	श 	ष 	स 	ह 	ऺ 	ऻ 	़ 	ऽ 	ा 	ि
+ी 	ु 	ू 	ृ 	ॄ 	ॅ 	ॆ 	े 	ै 	ॉ 	ॊ 	ो 	ौ 	् 	ॎ 	ॏ
+ॐ 	॑ 	॒ 	॓ 	॔ 	ॕ 	ॖ 	ॗ 	क़ 	ख़ 	ग़ 	ज़ 	ड़ 	ढ़ 	फ़ 	य़
+ॠ 	ॡ 	ॢ 	ॣ 	। 	॥ 	० 	१ 	२ 	३ 	४ 	५ 	६ 	७ 	८ 	९
+॰ 	ॱ 	ॲ 	ॳ 	ॴ 	ॵ 	ॶ 	ॷ 	ॸ 	ॹ 	ॺ 	ॻ 	ॼ 	ॽ 	ॾ 	ॿ
+
+
+
+
+
+
+
+ऀ 	ँ 	ं 	ः 	ऄ 	अ 	आ 	इ 	ई 	उ 	ऊ 	ऋ 	ऌ 	ऍ 	ऎ 	ए
+ऐ 	ऑ 	ऒ 	ओ 	औ 	क 	ख 	ग 	घ 	ङ 	च 	छ 	ज 	झ 	ञ 	ट
+ठ 	ड 	ढ 	ण 	त 	थ 	द 	ध 	न 	ऩ 	प 	फ 	ब 	भ 	म 	य
+र 	ऱ 	ल 	ळ 	ऴ 	व 	श 	ष 	स 	ह 	ऺ 	ऻ 	़ 	ऽ 	ा 	ि
+ी 	ु 	ू 	ृ 	ॄ 	ॅ 	ॆ 	े 	ै 	ॉ 	ॊ 	ो 	ौ 	् 	ॎ 	ॏ
+ॐ 	॑ 	॒ 	॓ 	॔ 	ॕ 	ॖ 	ॗ 	क़ 	ख़ 	ग़ 	ज़ 	ड़ 	ढ़ 	फ़ 	य़
+ॠ 	ॡ 	ॢ 	ॣ 	। 	॥ 	० 	१ 	२ 	३ 	४ 	५ 	६ 	७ 	८ 	९
+॰ 	ॱ 	ॲ 	ॳ 	ॴ 	ॵ 	ॶ 	ॷ 	ॸ 	ॹ 	ॺ 	ॻ 	ॼ 	ॽ 	ॾ 	ॿ
+
+
+
+
+
+
+
+
+
+
+
+# ----Български
+https://bg.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D1%80%D0%B5%D0%B4%D0%B1%D0%B0
+
+https://bg.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D1%80%D0%B5%D0%B4%D0%B1%D0%B0_%D0%BF%D0%BE_%D0%91%D0%94%D0%A1
+
+	начало
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+
+
+
+
+# ----Қазақша
+https://kk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0%D2%9B%D1%82%D0%B0_%D0%B6%D0%B0%D0%B9%D0%BC%D0%B0%D1%81%D1%8B
+
+          Start
+      /           \
+     E             T
+    / \           / \
+   I  A          N   M
+  /\  /\        /\   /\
+ S U  R W      D K   G O
+/\ /\ /\ /\   /\ /\ /\ /\
+HV F- L- PJ   BX CY ZQ .-
+
+
+
+	бастау
+      /           \
+     У             Е
+    / \           / \
+   Ш  Ф          Т   Ь
+  /\  /\        /\   /\
+ Ы Г  К Ц      В Л   П Щ
+/\ /\ /\ /\   /\ /\ /\ /\
+РМ АБ ДЮ ЗО   ИЧ СН ЯЙ ЖЭ
+
+
+
+
+УШФЫГКЦРМАБДЮЗО   
+
+ЕТЬВЛПЩИЧСНЯЙЖЭ
+
+
+
+
+# ----Кыргызча
+https://ky.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%BA%D1%8B%D1%87%D1%82%D0%BE%D0%BF_%D0%B6%D0%B0%D0%B9%D1%8B%D0%BB%D1%8B%D1%88%D1%8B
+	баштоо
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+
+# ----Русский
+https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D1%8B
+https://en.wikipedia.org/wiki/JCUKEN
+https://ru.wikipedia.org/wiki/%D0%99%D0%A6%D0%A3%D0%9A%D0%95%D0%9D
+
+
+http://ru.thefreedictionary.com/Browse-%D0%90
+
+
+  	 Начало
+      /           \
+     У             Е
+    / \           / \
+   Ш  Ф          Т   Ь
+  /\  /\        /\   /\
+ Ы Г  К Ц      В Л   П Щ
+/\ /\ /\ /\   /\ /\ /\ /\
+РМ А- Д- ЗО   ИЧ СН ЯЙ .-
+
+
+
+УШФЫГКЦРМА-Д-ЗО 
+
+ЕТЬВЛПЩИЧСНЯЙ.-
+
+
+
+
+
+
+	А а • 
+Б б • 
+	В в • 
+	Г г • 
+	Д д • 
+	Е е • 
+Ё ё • 
+Ж ж • 
+	З з • 
+	И и • 
+	Й й • 
+	К к • 
+	Л л • 
+	М м • 
+	Н н • 
+	О о • 
+	П п • 
+	Р р • 
+	С с • 
+	Т т • 
+	У у • 
+Ф ф • 
+Х х • 
+	Ц ц • 
+	Ч ч • 
+	Ш ш • 
+	Щ щ • 
+Ъ ъ • 
+	Ы ы • 
+	Ь ь • 
+Э э • 
+Ю ю • 
+	Я я
+
+
+
+# ----Удмурт
+https://udm.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8B_%D1%80%D0%B0%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0
+	бастау
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+# ----Українська
+https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B0%D0%B2%D1%96%D0%B0%D1%82%D1%83%D1%80%D0%B8
+	старт
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+
+
+# ----ja
+# ----japanese
+# ----日本語
+https://en.wikipedia.org/wiki/Japanese_writing_system
+	https://en.wikipedia.org/wiki/Kanji
+	https://en.wikipedia.org/wiki/Hiragana
+	https://en.wikipedia.org/wiki/Katakana
+
+https://en.wikipedia.org/wiki/Japanese_orthographic_issues
+https://en.wikipedia.org/wiki/Category:Japanese_orthography
+
+http://www.google.co.jp/ime/-.-.html
+	https://www.youtube.com/watch?v=u5AYb778pwA		Google 日本語入力モールスバージョン
+	https://github.com/google/mozc-devices
+
+					   	      開始
+						  /         \	  
+						ヘ	    ム
+                      /         \	    			                      /         \	    	      
+				イ
+       /         \	           /         \                         /         \	           /         \
+                 ウ
+    /\            /\            /\            /\                    /\            /\            /\            /\
+  /\  /\        /\   /\       /\  /\        /\   /\               /\  /\        /\   /\       /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\   /\ /\ /\ /\   /\ /\ /\ /\           /\ /\ /\ /\   /\ /\ /\ /\   /\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+
+
+
+
+
+
+
+
+https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E9%85%8D%E5%88%97
+https://commons.wikimedia.org/wiki/Category:Japanese_keyboard_layouts
+https://en.wikipedia.org/wiki/Japanese_language_and_computers
+
+https://en.wikipedia.org/wiki/Japanese_Braille
+https://en.wikipedia.org/wiki/Japanese_input_methods
+
+
+
+https://en.wikipedia.org/wiki/File:KB_Japanese.svg
+
+  	   開始
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+     	     開始
+         /          \
+                い                              か
+      / \            / \
+          に         ち                 み          も
+   /\     /\      /\     /\
+   と   な      す    て       し     の     き  ら
+ /\ /\  /\  /\  /\  /\  /\ /\
+くひ はれ りね せま  こさ そん つた るぬ
+
+
+     	     開始
+         /          \
+                 あ 	           う 	
+      / \            / \
+          え  	   お                    か 	け 	
+   /\     /\      /\     /\
+    ふ  へ 	 ほ    む 	  め  や  	ゆ   よ
+ /\ /\  /\  /\  /\  /\  /\ /\
+ろわ                       ゐ                           ゑ を
+
+
+
+https://en.wikipedia.org/wiki/Hiragana
+
+        a 	i 	u 	e 	o
+∅ 	あ 	い 	う 	え 	お
+k 	か 	き 	く 	け 	こ
+s 	さ 	し 	す 	せ 	そ
+t 	た 	ち 	つ 	て 	と
+n 	な 	に 	ぬ 	ね 	の
+h 	は 	ひ 	ふ 	へ 	ほ
+m 	ま 	み 	む 	め 	も
+y 	や 		ゆ 		よ
+r 	ら 	り 	る 	れ 	ろ
+w 	わ 	ゐ 		ゑ 	を
+	ん (N)
+Functional marks
+and diacritics
+っ 	ゝ 		゛ 	゜ 	
+
+https://en.wikipedia.org/wiki/Keyboard_layout#Japanese
+https://en.wikipedia.org/wiki/Japanese_language
+
+
+
+
+
+# ----粵語
+https://zh-yue.wikipedia.org/wiki/%E9%8D%B5%E7%9B%A4%E9%85%8D%E7%BD%AE
+
+# ----中文
+https://zh.wikipedia.org/wiki/%E9%94%AE%E7%9B%98%E5%B8%83%E5%B1%80
+https://zh.wikipedia.org/wiki/File:Standard_Taiwanese_Keyboard_Layout.svg
+https://upload.wikimedia.org/wikipedia/commons/e/ef/Standard_Taiwanese_Keyboard_Layout.svg
+
+https://zh.wikipedia.org/wiki/%E6%91%A9%E5%B0%94%E6%96%AF%E7%94%B5%E7%A0%81
+
+https://en.wikipedia.org/wiki/Written_Chinese
+https://zh.wikipedia.org/wiki/%E6%BC%A2%E8%AA%9E%E6%9B%B8%E9%9D%A2%E8%AA%9E
+
+https://en.wikipedia.org/wiki/Chinese_dictionary
+https://zh.wikipedia.org/wiki/%E5%AD%97%E5%85%B8
+
+
+
+	   开始
+       /         \
+    /\            /\
+  /\  /\        /\   /\
+/\ /\ /\ /\   /\ /\ /\ /\
+
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Keyboard_layout#Keyboard_layouts_for_non-Latin_alphabetic_scripts
+
+# ----Bengali
+https://en.wikipedia.org/wiki/Bengali_input_methods
+https://en.wikipedia.org/wiki/Bengali_language
+
+# ----InScript
+https://en.wikipedia.org/wiki/InScript
+https://en.wikipedia.org/wiki/Devanagari#Devanagari_keyboard_layouts
+
+
+
+
+
+
+
+
+
+
+
+
+# ----Other languages
+https://meta.wikimedia.org/wiki/List_of_Wikipedias
+
+
+
+# ----Inuktitut 	
+# ----ᐃᓄᒃᑎᑐᑦ
+https://iu.wikipedia.org/wiki/%E1%90%83%E1%93%84%E1%92%83%E1%91%8E%E1%91%90%E1%91%A6
+https://iu.wikipedia.org/wiki/%E1%90%83%E1%93%84%E1%92%83%E1%91%8E%E1%91%90%E1%91%A6#/media/File:Inuktitut.png
+
+
+
+
+
+
+
+
+
+
+/etc/locale.alias
+        bokmal          nb_NO.ISO-8859-1
+        catalan         ca_ES.ISO-8859-1
+        croatian        hr_HR.ISO-8859-2
+        czech           cs_CZ.ISO-8859-2
+        danish          da_DK.ISO-8859-1
+        dansk           da_DK.ISO-8859-1
+        deutsch         de_DE.ISO-8859-1
+        dutch           nl_NL.ISO-8859-1
+        eesti           et_EE.ISO-8859-15
+        estonian        et_EE.ISO-8859-15
+        finnish         fi_FI.ISO-8859-1
+        french          fr_FR.ISO-8859-1
+        galego          gl_ES.ISO-8859-1
+        galician        gl_ES.ISO-8859-1
+        german          de_DE.ISO-8859-1
+        greek           el_GR.ISO-8859-7
+        hebrew          he_IL.ISO-8859-8
+        hrvatski        hr_HR.ISO-8859-2
+        hungarian       hu_HU.ISO-8859-2
+        icelandic       is_IS.ISO-8859-1
+        italian         it_IT.ISO-8859-1
+        japanese        ja_JP.eucJP
+        japanese.euc    ja_JP.eucJP
+        ja_JP           ja_JP.eucJP
+        ja_JP.ujis      ja_JP.eucJP
+        japanese.sjis   ja_JP.SJIS
+        korean          ko_KR.eucKR
+        korean.euc      ko_KR.eucKR
+        ko_KR           ko_KR.eucKR
+        lithuanian      lt_LT.ISO-8859-13
+        no_NO           nb_NO.ISO-8859-1
+        no_NO.ISO-8859-1 nb_NO.ISO-8859-1
+        norwegian       nb_NO.ISO-8859-1
+        nynorsk         nn_NO.ISO-8859-1
+        polish          pl_PL.ISO-8859-2
+        portuguese      pt_PT.ISO-8859-1
+        romanian        ro_RO.ISO-8859-2
+        russian         ru_RU.KOI8-R
+        slovak          sk_SK.ISO-8859-2
+        slovene         sl_SI.ISO-8859-2
+        slovenian       sl_SI.ISO-8859-2
+        spanish         es_ES.ISO-8859-1
+        swedish         sv_SE.ISO-8859-1
+        thai            th_TH.TIS-620
+        turkish         tr_TR.ISO-8859-9
+
+
+
+
+
+
+/etc/locale.gen
+        /usr/share/i18n/SUPPORTED
+        /usr/local/share/i18n/SUPPORTED
+
+# This file lists locales that you wish to have built. You can find a list
+# of valid supported locales at /usr/share/i18n/SUPPORTED, and you can add
+# user defined locales to /usr/local/share/i18n/SUPPORTED. If you change
+# this file, you need to rerun locale-gen.
+
+
+# aa_DJ ISO-8859-1
+# aa_DJ.UTF-8 UTF-8
+# aa_ER UTF-8
+# aa_ER@saaho UTF-8
+# aa_ET UTF-8
+# af_ZA ISO-8859-1
+# af_ZA.UTF-8 UTF-8
+# ak_GH UTF-8
+# am_ET UTF-8
+# an_ES ISO-8859-15
+# an_ES.UTF-8 UTF-8
+# anp_IN UTF-8
+# ar_AE ISO-8859-6
+# ar_AE.UTF-8 UTF-8
+# ar_BH ISO-8859-6
+# ar_BH.UTF-8 UTF-8
+# ar_DZ ISO-8859-6
+# ar_DZ.UTF-8 UTF-8
+# ar_EG ISO-8859-6
+# ar_EG.UTF-8 UTF-8
+# ar_IN UTF-8
+# ar_IQ ISO-8859-6
+# ar_IQ.UTF-8 UTF-8
+# ar_JO ISO-8859-6
+# ar_JO.UTF-8 UTF-8
+# ar_KW ISO-8859-6
+# ar_KW.UTF-8 UTF-8
+# ar_LB ISO-8859-6
+# ar_LB.UTF-8 UTF-8
+# ar_LY ISO-8859-6
+# ar_LY.UTF-8 UTF-8
+# ar_MA ISO-8859-6
+# ar_MA.UTF-8 UTF-8
+# ar_OM ISO-8859-6
+# ar_OM.UTF-8 UTF-8
+# ar_QA ISO-8859-6
+# ar_QA.UTF-8 UTF-8
+# ar_SA ISO-8859-6
+# ar_SA.UTF-8 UTF-8
+# ar_SD ISO-8859-6
+# ar_SD.UTF-8 UTF-8
+# ar_SS UTF-8
+# ar_SY ISO-8859-6
+# ar_SY.UTF-8 UTF-8
+# ar_TN ISO-8859-6
+# ar_TN.UTF-8 UTF-8
+# ar_YE ISO-8859-6
+# ar_YE.UTF-8 UTF-8
+# as_IN UTF-8
+# ast_ES ISO-8859-15
+# ast_ES.UTF-8 UTF-8
+# ayc_PE UTF-8
+# az_AZ UTF-8
+# be_BY CP1251
+# be_BY.UTF-8 UTF-8
+# be_BY@latin UTF-8
+# bem_ZM UTF-8
+# ber_DZ UTF-8
+# ber_MA UTF-8
+# bg_BG CP1251
+# bg_BG.UTF-8 UTF-8
+# bh_IN.UTF-8 UTF-8
+# bho_IN UTF-8
+# bn_BD UTF-8
+# bn_IN UTF-8
+# bo_CN UTF-8
+# bo_IN UTF-8
+# br_FR ISO-8859-1
+# br_FR.UTF-8 UTF-8
+# br_FR@euro ISO-8859-15
+# brx_IN UTF-8
+# bs_BA ISO-8859-2
+# bs_BA.UTF-8 UTF-8
+# byn_ER UTF-8
+# ca_AD ISO-8859-15
+# ca_AD.UTF-8 UTF-8
+# ca_ES ISO-8859-1
+# ca_ES.UTF-8 UTF-8
+# ca_ES.UTF-8@valencia UTF-8
+# ca_ES@euro ISO-8859-15
+# ca_ES@valencia ISO-8859-15
+# ca_FR ISO-8859-15
+# ca_FR.UTF-8 UTF-8
+# ca_IT ISO-8859-15
+# ca_IT.UTF-8 UTF-8
+# ce_RU UTF-8
+# cmn_TW UTF-8
+# crh_UA UTF-8
+# cs_CZ ISO-8859-2
+# cs_CZ.UTF-8 UTF-8
+# csb_PL UTF-8
+# cv_RU UTF-8
+# cy_GB ISO-8859-14
+# cy_GB.UTF-8 UTF-8
+# da_DK ISO-8859-1
+# da_DK.UTF-8 UTF-8
+# de_AT ISO-8859-1
+# de_AT.UTF-8 UTF-8
+# de_AT@euro ISO-8859-15
+# de_BE ISO-8859-1
+# de_BE.UTF-8 UTF-8
+# de_BE@euro ISO-8859-15
+# de_CH ISO-8859-1
+# de_CH.UTF-8 UTF-8
+# de_DE ISO-8859-1
+# de_DE.UTF-8 UTF-8
+# de_DE@euro ISO-8859-15
+# de_LI.UTF-8 UTF-8
+# de_LU ISO-8859-1
+# de_LU.UTF-8 UTF-8
+# de_LU@euro ISO-8859-15
+# doi_IN UTF-8
+# dv_MV UTF-8
+# dz_BT UTF-8
+# el_CY ISO-8859-7
+# el_CY.UTF-8 UTF-8
+# el_GR ISO-8859-7
+# el_GR.UTF-8 UTF-8
+# en_AG UTF-8
+# en_AU ISO-8859-1
+# en_AU.UTF-8 UTF-8
+# en_BW ISO-8859-1
+# en_BW.UTF-8 UTF-8
+# en_CA ISO-8859-1
+en_CA.UTF-8 UTF-8
+# en_DK ISO-8859-1
+# en_DK.ISO-8859-15 ISO-8859-15
+# en_DK.UTF-8 UTF-8
+# en_GB ISO-8859-1
+# en_GB.ISO-8859-15 ISO-8859-15
+# en_GB.UTF-8 UTF-8
+# en_HK ISO-8859-1
+# en_HK.UTF-8 UTF-8
+# en_IE ISO-8859-1
+# en_IE.UTF-8 UTF-8
+# en_IE@euro ISO-8859-15
+# en_IN UTF-8
+# en_NG UTF-8
+# en_NZ ISO-8859-1
+# en_NZ.UTF-8 UTF-8
+# en_PH ISO-8859-1
+# en_PH.UTF-8 UTF-8
+# en_SG ISO-8859-1
+# en_SG.UTF-8 UTF-8
+# en_US ISO-8859-1
+# en_US.ISO-8859-15 ISO-8859-15
+# en_US.UTF-8 UTF-8
+# en_ZA ISO-8859-1
+# en_ZA.UTF-8 UTF-8
+# en_ZM UTF-8
+# en_ZW ISO-8859-1
+# en_ZW.UTF-8 UTF-8
+# eo ISO-8859-3
+# eo.UTF-8 UTF-8
+# es_AR ISO-8859-1
+# es_AR.UTF-8 UTF-8
+# es_BO ISO-8859-1
+# es_BO.UTF-8 UTF-8
+# es_CL ISO-8859-1
+# es_CL.UTF-8 UTF-8
+# es_CO ISO-8859-1
+# es_CO.UTF-8 UTF-8
+# es_CR ISO-8859-1
+# es_CR.UTF-8 UTF-8
+# es_CU UTF-8
+# es_DO ISO-8859-1
+# es_DO.UTF-8 UTF-8
+# es_EC ISO-8859-1
+# es_EC.UTF-8 UTF-8
+# es_ES ISO-8859-1
+# es_ES.UTF-8 UTF-8
+# es_ES@euro ISO-8859-15
+# es_GT ISO-8859-1
+# es_GT.UTF-8 UTF-8
+# es_HN ISO-8859-1
+# es_HN.UTF-8 UTF-8
+# es_MX ISO-8859-1
+# es_MX.UTF-8 UTF-8
+# es_NI ISO-8859-1
+# es_NI.UTF-8 UTF-8
+# es_PA ISO-8859-1
+# es_PA.UTF-8 UTF-8
+# es_PE ISO-8859-1
+# es_PE.UTF-8 UTF-8
+# es_PR ISO-8859-1
+# es_PR.UTF-8 UTF-8
+# es_PY ISO-8859-1
+# es_PY.UTF-8 UTF-8
+# es_SV ISO-8859-1
+# es_SV.UTF-8 UTF-8
+# es_US ISO-8859-1
+# es_US.UTF-8 UTF-8
+# es_UY ISO-8859-1
+# es_UY.UTF-8 UTF-8
+# es_VE ISO-8859-1
+# es_VE.UTF-8 UTF-8
+# et_EE ISO-8859-1
+# et_EE.ISO-8859-15 ISO-8859-15
+# et_EE.UTF-8 UTF-8
+# eu_ES ISO-8859-1
+# eu_ES.UTF-8 UTF-8
+# eu_ES@euro ISO-8859-15
+# eu_FR ISO-8859-1
+# eu_FR.UTF-8 UTF-8
+# eu_FR@euro ISO-8859-15
+# fa_IR UTF-8
+# ff_SN UTF-8
+# fi_FI ISO-8859-1
+# fi_FI.UTF-8 UTF-8
+# fi_FI@euro ISO-8859-15
+# fil_PH UTF-8
+# fo_FO ISO-8859-1
+# fo_FO.UTF-8 UTF-8
+# fr_BE ISO-8859-1
+# fr_BE.UTF-8 UTF-8
+# fr_BE@euro ISO-8859-15
+# fr_CA ISO-8859-1
+# fr_CA.UTF-8 UTF-8
+# fr_CH ISO-8859-1
+# fr_CH.UTF-8 UTF-8
+# fr_FR ISO-8859-1
+# fr_FR.UTF-8 UTF-8
+# fr_FR@euro ISO-8859-15
+# fr_LU ISO-8859-1
+# fr_LU.UTF-8 UTF-8
+# fr_LU@euro ISO-8859-15
+# fur_IT UTF-8
+# fy_DE UTF-8
+# fy_NL UTF-8
+# ga_IE ISO-8859-1
+# ga_IE.UTF-8 UTF-8
+# ga_IE@euro ISO-8859-15
+# gd_GB ISO-8859-15
+# gd_GB.UTF-8 UTF-8
+# gez_ER UTF-8
+# gez_ER@abegede UTF-8
+# gez_ET UTF-8
+# gez_ET@abegede UTF-8
+# gl_ES ISO-8859-1
+# gl_ES.UTF-8 UTF-8
+# gl_ES@euro ISO-8859-15
+# gu_IN UTF-8
+# gv_GB ISO-8859-1
+# gv_GB.UTF-8 UTF-8
+# ha_NG UTF-8
+# hak_TW UTF-8
+# he_IL ISO-8859-8
+# he_IL.UTF-8 UTF-8
+# hi_IN UTF-8
+# hne_IN UTF-8
+# hr_HR ISO-8859-2
+# hr_HR.UTF-8 UTF-8
+# hsb_DE ISO-8859-2
+# hsb_DE.UTF-8 UTF-8
+# ht_HT UTF-8
+# hu_HU ISO-8859-2
+# hu_HU.UTF-8 UTF-8
+# hy_AM UTF-8
+# hy_AM.ARMSCII-8 ARMSCII-8
+# ia_FR UTF-8
+# id_ID ISO-8859-1
+# id_ID.UTF-8 UTF-8
+# ig_NG UTF-8
+# ik_CA UTF-8
+# is_IS ISO-8859-1
+# is_IS.UTF-8 UTF-8
+# it_CH ISO-8859-1
+# it_CH.UTF-8 UTF-8
+# it_IT ISO-8859-1
+# it_IT.UTF-8 UTF-8
+# it_IT@euro ISO-8859-15
+# iu_CA UTF-8
+# iw_IL ISO-8859-8
+# iw_IL.UTF-8 UTF-8
+# ja_JP.EUC-JP EUC-JP
+# ja_JP.UTF-8 UTF-8
+# ka_GE GEORGIAN-PS
+# ka_GE.UTF-8 UTF-8
+# kk_KZ PT154
+# kk_KZ RK1048
+# kk_KZ.UTF-8 UTF-8
+# kl_GL ISO-8859-1
+# kl_GL.UTF-8 UTF-8
+# km_KH UTF-8
+# kn_IN UTF-8
+# ko_KR.EUC-KR EUC-KR
+# ko_KR.UTF-8 UTF-8
+# kok_IN UTF-8
+# ks_IN UTF-8
+# ks_IN@devanagari UTF-8
+# ku_TR ISO-8859-9
+# ku_TR.UTF-8 UTF-8
+# kw_GB ISO-8859-1
+# kw_GB.UTF-8 UTF-8
+# ky_KG UTF-8
+# lb_LU UTF-8
+# lg_UG ISO-8859-10
+# lg_UG.UTF-8 UTF-8
+# li_BE UTF-8
+# li_NL UTF-8
+# lij_IT UTF-8
+# lo_LA UTF-8
+# lt_LT ISO-8859-13
+# lt_LT.UTF-8 UTF-8
+# lv_LV ISO-8859-13
+# lv_LV.UTF-8 UTF-8
+# lzh_TW UTF-8
+# mag_IN UTF-8
+# mai_IN UTF-8
+# mg_MG ISO-8859-15
+# mg_MG.UTF-8 UTF-8
+# mhr_RU UTF-8
+# mi_NZ ISO-8859-13
+# mi_NZ.UTF-8 UTF-8
+# mk_MK ISO-8859-5
+# mk_MK.UTF-8 UTF-8
+# ml_IN UTF-8
+# mn_MN UTF-8
+# mni_IN UTF-8
+# mr_IN UTF-8
+# ms_MY ISO-8859-1
+# ms_MY.UTF-8 UTF-8
+# mt_MT ISO-8859-3
+# mt_MT.UTF-8 UTF-8
+# my_MM UTF-8
+# nan_TW UTF-8
+# nan_TW@latin UTF-8
+# nb_NO ISO-8859-1
+# nb_NO.UTF-8 UTF-8
+# nds_DE UTF-8
+# nds_NL UTF-8
+# ne_NP UTF-8
+# nhn_MX UTF-8
+# niu_NU UTF-8
+# niu_NZ UTF-8
+# nl_AW UTF-8
+# nl_BE ISO-8859-1
+# nl_BE.UTF-8 UTF-8
+# nl_BE@euro ISO-8859-15
+# nl_NL ISO-8859-1
+# nl_NL.UTF-8 UTF-8
+# nl_NL@euro ISO-8859-15
+# nn_NO ISO-8859-1
+# nn_NO.UTF-8 UTF-8
+# nr_ZA UTF-8
+# nso_ZA UTF-8
+# oc_FR ISO-8859-1
+# oc_FR.UTF-8 UTF-8
+# om_ET UTF-8
+# om_KE ISO-8859-1
+# om_KE.UTF-8 UTF-8
+# or_IN UTF-8
+# os_RU UTF-8
+# pa_IN UTF-8
+# pa_PK UTF-8
+# pap_AN UTF-8
+# pap_AW UTF-8
+# pap_CW UTF-8
+# pl_PL ISO-8859-2
+# pl_PL.UTF-8 UTF-8
+# ps_AF UTF-8
+# pt_BR ISO-8859-1
+# pt_BR.UTF-8 UTF-8
+# pt_PT ISO-8859-1
+# pt_PT.UTF-8 UTF-8
+# pt_PT@euro ISO-8859-15
+# quz_PE UTF-8
+# raj_IN UTF-8
+# ro_RO ISO-8859-2
+# ro_RO.UTF-8 UTF-8
+# ru_RU ISO-8859-5
+# ru_RU.CP1251 CP1251
+# ru_RU.KOI8-R KOI8-R
+# ru_RU.UTF-8 UTF-8
+# ru_UA KOI8-U
+# ru_UA.UTF-8 UTF-8
+# rw_RW UTF-8
+# sa_IN UTF-8
+# sat_IN UTF-8
+# sc_IT UTF-8
+# sd_IN UTF-8
+# sd_IN@devanagari UTF-8
+# se_NO UTF-8
+# shs_CA UTF-8
+# si_LK UTF-8
+# sid_ET UTF-8
+# sk_SK ISO-8859-2
+# sk_SK.UTF-8 UTF-8
+# sl_SI ISO-8859-2
+# sl_SI.UTF-8 UTF-8
+# so_DJ ISO-8859-1
+# so_DJ.UTF-8 UTF-8
+# so_ET UTF-8
+# so_KE ISO-8859-1
+# so_KE.UTF-8 UTF-8
+# so_SO ISO-8859-1
+# so_SO.UTF-8 UTF-8
+# sq_AL ISO-8859-1
+# sq_AL.UTF-8 UTF-8
+# sq_MK UTF-8
+# sr_ME UTF-8
+# sr_RS UTF-8
+# sr_RS@latin UTF-8
+# ss_ZA UTF-8
+# st_ZA ISO-8859-1
+# st_ZA.UTF-8 UTF-8
+# sv_FI ISO-8859-1
+# sv_FI.UTF-8 UTF-8
+# sv_FI@euro ISO-8859-15
+# sv_SE ISO-8859-1
+# sv_SE.ISO-8859-15 ISO-8859-15
+# sv_SE.UTF-8 UTF-8
+# sw_KE UTF-8
+# sw_TZ UTF-8
+# szl_PL UTF-8
+# ta_IN UTF-8
+# ta_LK UTF-8
+# te_IN UTF-8
+# tg_TJ KOI8-T
+# tg_TJ.UTF-8 UTF-8
+# th_TH TIS-620
+# th_TH.UTF-8 UTF-8
+# the_NP UTF-8
+# ti_ER UTF-8
+# ti_ET UTF-8
+# tig_ER UTF-8
+# tk_TM UTF-8
+# tl_PH ISO-8859-1
+# tl_PH.UTF-8 UTF-8
+# tn_ZA UTF-8
+# tr_CY ISO-8859-9
+# tr_CY.UTF-8 UTF-8
+# tr_TR ISO-8859-9
+# tr_TR.UTF-8 UTF-8
+# ts_ZA UTF-8
+# tt_RU UTF-8
+# tt_RU@iqtelif UTF-8
+# tu_IN.UTF-8 UTF-8
+# ug_CN UTF-8
+# uk_UA KOI8-U
+# uk_UA.UTF-8 UTF-8
+# unm_US UTF-8
+# ur_IN UTF-8
+# ur_PK UTF-8
+# uz_UZ ISO-8859-1
+# uz_UZ.UTF-8 UTF-8
+# uz_UZ@cyrillic UTF-8
+# ve_ZA UTF-8
+# vi_VN UTF-8
+# wa_BE ISO-8859-1
+# wa_BE.UTF-8 UTF-8
+# wa_BE@euro ISO-8859-15
+# wae_CH UTF-8
+# wal_ET UTF-8
+# wo_SN UTF-8
+# xh_ZA ISO-8859-1
+# xh_ZA.UTF-8 UTF-8
+# yi_US CP1255
+# yi_US.UTF-8 UTF-8
+# yo_NG UTF-8
+# yue_HK UTF-8
+# zh_CN GB2312
+# zh_CN.GB18030 GB18030
+# zh_CN.GBK GBK
+# zh_CN.UTF-8 UTF-8
+# zh_HK BIG5-HKSCS
+# zh_HK.UTF-8 UTF-8
+# zh_SG GB2312
+# zh_SG.GBK GBK
+# zh_SG.UTF-8 UTF-8
+# zh_TW BIG5
+# zh_TW.EUC-TW EUC-TW
+# zh_TW.UTF-8 UTF-8
+# zu_ZA ISO-8859-1
+# zu_ZA.UTF-8 UTF-8
+# en_CA.UTF-8 UTF-8
+# bhb_IN.UTF-8 UTF-8
+# tcy_IN.UTF-8 UTF-8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://translate.google.com/#ro/af/toe%20keyboard
+
+
+toe keyboard
+
+toe klawerbord
+keyboard toe
+toe Tastatur
+ጣት ቁልፍ ሰሌዳ
+لوحة المفاتيح اصبع القدم
+քիթ ստեղնաշար
+
+
+
+
+
+
+
+
+
+
+https://meta.wikimedia.org/wiki/List_of_Wikipedias
+
+w3m https://meta.wikimedia.org/wiki/List_of_Wikipedias -dump > languages.txt
+
+
+http://www.omniglot.com/writing/
+
+
+┌────┬─────────────┬──────────────┬──────
+│ №  │  Language   │   Language   │ Wiki 
+│    │             │   (local)    │      
+├────┼─────────────┼──────────────┼──────
+│ 1  │ English     │ English      │ en   
+ │<English alphabet - Wikipedia>https://en.wikipedia.org/wiki/English_Alphabet       │
+ │<English orthography - Wikipedia>https://en.wikipedia.org/wiki/English_orthography │
+
+https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet
+https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
+
+https://en.wikipedia.org/wiki/Latin_alphabet
+
+http://www.omniglot.com/writing/english.htm
+
+----
+Start
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+----
+
+
+
+├────┼─────────────┼──────────────┼──────
+
+│ 2  │ Swedish     │ Svenska      │ sv   
+https://en.wikipedia.org/wiki/Swedish_orthography
+https://en.wikipedia.org/wiki/Swedish_alphabet
+
+http://www.omniglot.com/writing/swedish.htm
+
+----
+Start
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+Å
+Ä
+Ö
+----
+
+├────┼─────────────┼──────────────┼──────
+│ 3  │ Cebuano     │ Sinugboanong │ ceb  
+│    │             │ Binisaya     │      
+https://en.wikipedia.org/wiki/Abakada_alphabet
+	https://en.wikipedia.org/wiki/Tagalog_language#Writing_system
+	https://en.wikipedia.org/wiki/Baybayin
+https://en.wikipedia.org/wiki/Filipino_orthography
+
+http://www.omniglot.com/writing/cebuano.htm
+
+----
+Pagsugod
+
+A
+B
+K
+D
+E
+G
+H
+I
+L
+M
+N
+NG
+O
+P
+R
+S
+T
+U
+W
+Y
+----
+
+├────┼─────────────┼──────────────┼──────
+│ 4  │ German      │ Deutsch      │ de   
+https://en.wikipedia.org/wiki/German_orthography#Alphabet
+http://www.omniglot.com/writing/german.htm
+
+----
+Anfang
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Ä
+Ö
+Ü
+ß
+----
+├────┼─────────────┼──────────────┼──────
+│ 5  │ Dutch       │ Nederlands   │ nl   
+https://en.wikipedia.org/wiki/Dutch_orthography
+http://www.omniglot.com/writing/dutch.htm
+
+https://en.wikipedia.org/wiki/Dutch_phonology
+
+----
+Begin
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+IJ
+Z
+----
+├────┼─────────────┼──────────────┼──────
+│ 6  │ French      │ Français     │ fr   
+https://en.wikipedia.org/wiki/French_orthography
+http://www.omniglot.com/writing/french.htm
+
+----
+Début
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+é
+
+â
+ê
+î
+ô
+û
+
+ë
+ï
+ü
+ÿ
+
+ç
+----
+├────┼─────────────┼──────────────┼──────
+│ 7  │ Russian     │ Русский      │ ru   
+│<Russian alphabet - Wikipedia>https://en.wikipedia.org/wiki/Russian_Alphabet       │
+ │<Russian orthography - Wikipedia>https://en.wikipedia.org/wiki/Russian_orthography │
+
+http://www.omniglot.com/writing/russian.htm
+
+
+
+----
+Начало
+
+А
+Б
+В
+Г
+Д
+Е
+Ё
+Ж
+З
+И
+Й
+К
+Л
+М
+Н
+О
+П
+Р
+С
+Т
+У
+Ф
+Х
+Ц
+Ч
+Ш
+Щ
+Ъ
+Ы
+Ь
+Э
+Ю
+Я
+----
+
+
+
+
+https://en.wikipedia.org/wiki/Russian_alphabet#Frequency
+
+О      11.07%
+Е      8.50% 
+А      7.50%
+И      7.09%
+Н      6.70% 
+Т      5.97%
+С      4.97%
+Л      4.96%
+В      4.33%
+Р      4.33%
+К      3.30%
+М      3.10%
+Д      3.09%
+П      2.47%
+Ы      2.36%
+У      2.22%
+Б      2.01%
+Я      1.96%
+Ь      1.84%
+Г      1.72%
+З      1.48%
+Ч      1.40%
+Й      1.21%
+Ж      1.01%
+Х      0.95%
+Ш      0.72%
+Ю      0.47%
+Ц      0.39%
+Э      0.36% 
+Щ      0.30%
+Ф      0.21% 
+Ё      0.20% 
+Ъ      0.02% 
+             
+
+
+
+
+├────┼─────────────┼──────────────┼──────
+│ 8  │ Italian     │ Italiano     │ it   
+│<Italian orthography - Wikipedia>https://en.wikipedia.org/wiki/Italian_orthography │
+https://en.wikipedia.org/wiki/Italian_phonology
+http://www.omniglot.com/writing/italian.htm
+
+----
+Inizio
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+Z
+à
+è
+é
+ì
+í
+î
+ò
+ó
+ù
+ú
+
+----
+├────┼─────────────┼──────────────┼──────
+│ 9  │ Spanish     │ Español      │ es   
+ │<Spanish orthography - Wikipedia>https://en.wikipedia.org/wiki/Spanish_orthography │
+http://www.omniglot.com/writing/spanish.htm
+
+----
+Comienzo
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+Ñ
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+----
+├────┼─────────────┼──────────────┼──────
+│ 10 │ Waray-Waray │ Winaray      │ war  
+https://en.wikipedia.org/wiki/Waray_language
+
+----
+----
+├────┼─────────────┼──────────────┼──────
+│ 11 │ Polish      │ Polski       │ pl   
+ │<Polish orthography - Wikipedia>https://en.wikipedia.org/wiki/Polish_orthography │
+http://www.omniglot.com/writing/polish.htm
+
+----
+Początek
+
+A
+Ą
+B
+C
+Ć
+D
+E
+Ę
+F
+G
+H
+I
+J
+K
+L
+Ł
+M
+N
+Ń
+O
+Ó
+P
+R
+S
+Ś
+T
+U
+W
+Y
+Z
+Ź
+Ż
+----
+├────┼─────────────┼──────────────┼──────
+│ 12 │ Vietnamese  │ Tiếng Việt   │ vi   
+ │<Vietnamese alphabet - Wikipedia>https://en.wikipedia.org/wiki/Vietnamese_orthography│
+http://www.omniglot.com/writing/vietnamese.htm
+
+----
+Khởi đầu
+
+A
+Ă
+Â
+B
+C
+D
+Đ
+E
+Ê
+G
+H
+I
+K
+L
+M
+N
+O
+Ô
+Ơ
+P
+Q
+R
+S
+T
+U
+Ư
+V
+X
+Y
+----
+├────┼─────────────┼──────────────┼──────
+│ 13 │ Japanese    │ 日本語       │ ja   
+└────┴─────────────┴──────────────┴──────
+ │<Japanese writing system - Wikipedia>https://en.wikipedia.org/wiki/Japanese_orthography│
+http://www.omniglot.com/writing/japanese.htm
+
+https://en.wikipedia.org/wiki/Japanese_input_methods
+https://en.wikipedia.org/wiki/Thumb-shift_keyboard
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/File:KB_Japanese.svg
+----
+
+     	     開始
+         /          \
+                い                              か
+      / \            / \
+          に         ち                 み          も
+   /\     /\      /\     /\
+   と   な      す    て       し     の     き  ら
+ /\ /\  /\  /\  /\  /\  /\ /\
+くひ はれ りね せま  こさ そん つた るぬ
+
+
+開始
+
+
+い
+に
+ち
+と
+な
+す
+て
+く
+ひ
+は
+れ
+り
+ね
+せ
+ま
+
+
+か
+み
+も
+し
+の
+き
+ら
+こ
+さ
+そ
+ん
+つ
+た
+る
+ぬ
+
+
+----
+     	     開始
+         /          \
+                 あ 	           う 	
+      / \            / \
+          え  	   お                    か 	け 	
+   /\     /\      /\     /\
+    ふ  へ 	 ほ    む 	  め  や  	ゆ   よ
+ /\ /\  /\  /\  /\  /\  /\ /\
+ろわ                       ゐ                           ゑ を
+
+
+
+開始
+
+あ
+え
+お
+ふ
+へ
+ほ
+む
+ろ
+わ
+ゐ
+う
+か 	
+け 	                       
+め
+や
+ゆ
+よ
+ゑ
+を
+
+----
+
+├────┼────────────────┼────────────────┼────────────
+│ 14 │ Portuguese     │ Português      │ pt         
+│<Portuguese orthography - Wikipedia>https://en.wikipedia.org/wiki/Portuguese_orthography │
+http://www.omniglot.com/writing/portuguese.htm
+
+----
+Começar
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+á
+â
+ã
+à
+ç
+é
+ê
+í
+ó
+ô
+õ
+ú
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 15 │ Chinese        │ 中文           │ zh         
+│<Written Chinese - Wikipedia>https://en.wikipedia.org/wiki/Chinese_orthography │
+http://www.omniglot.com/chinese/index.htm			http://www.omniglot.com/writing/chinese.htm
+
+
+https://en.wikipedia.org/wiki/Written_Chinese
+https://en.wikipedia.org/wiki/Comparison_of_Chinese_transcription_systems
+https://en.wikipedia.org/wiki/Transcription_into_Chinese_characters
+	https://en.wikipedia.org/wiki/Standard_Chinese
+	https://en.wikipedia.org/wiki/List_of_English_words_of_Chinese_origin
+https://en.wikipedia.org/wiki/Romanization_of_Chinese
+https://en.wikipedia.org/wiki/Transliteration_of_Chinese
+
+https://en.wikipedia.org/wiki/Pinyin
+https://en.wikipedia.org/wiki/Pinyin_input_method
+https://en.wikipedia.org/wiki/Jyutping
+
+https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers
+
+https://en.wikipedia.org/wiki/Bopomofo
+
+https://en.wikipedia.org/wiki/Cantonese_Braille
+https://en.wikipedia.org/wiki/Taiwanese_Braille
+https://en.wikipedia.org/wiki/Mainland_Chinese_Braille
+
+https://en.wikipedia.org/wiki/Chinese_script_styles
+
+
+https://en.wikipedia.org/wiki/Chinese_characters
+
+https://en.wikipedia.org/wiki/Character_amnesia
+https://en.wikipedia.org/wiki/Gestaltzerfall
+
+
+#----chinese
+https://en.wikipedia.org/wiki/Bopomofo
+
+
+开始
+
+ㄅ
+ㄆ
+ㄇ
+ㄈ
+ㄉ
+ㄊ
+ㄋ
+ㄌ
+ㄍ
+ㄎ
+ㄏ
+ㄐ
+ㄑ
+ㄒ
+ㄓ
+ㄔ
+ㄕ
+ㄖ
+ㄗ
+ㄘ
+ㄙ
+
+ㄚ
+ㄛ
+ㄜ
+ㄝ
+ㄞ
+ㄟ
+ㄠ
+ㄡ
+ㄢ
+ㄣ
+ㄤ
+ㄥ
+ㄦ
+ㄧ
+ㄨ
+ㄩ
+ㄭ
+
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 16 │ Ukrainian      │ Українська     │ uk         
+│<Ukrainian alphabet - Wikipedia>https://en.wikipedia.org/wiki/Ukrainian_orthography│
+http://www.omniglot.com/writing/ukrainian.htm
+
+----
+старт
+
+А
+Б
+В
+Г
+Ґ
+Д
+Е
+Є
+Ж
+З
+И
+І
+Ї
+Й
+К
+Л
+М
+Н
+О
+П
+Р
+С
+Т
+У
+Ф
+Х
+Ц
+Ч
+Ш
+Щ
+Ь
+Ю
+Я
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 17 │ Catalan        │ Català         │ ca         
+ │<Catalan orthography - Wikipedia>https://en.wikipedia.org/wiki/Catalan_orthography │
+http://www.omniglot.com/writing/catalan.htm
+
+
+----
+Començar
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+é 
+í 
+ó 
+ú
+
+à 
+è 
+ò
+
+----
+
+https://en.wikipedia.org/wiki/Catalan_manual_alphabet
+https://en.wikipedia.org/wiki/Catalan_Sign_Language
+https://en.wikipedia.org/wiki/Catalan_Braille
+
+
+
+├────┼────────────────┼────────────────┼────────────
+│ 18 │ Persian        │ فارسی          │ fa         
+│<Persian alphabet - Wikipedia>https://en.wikipedia.org/wiki/Persian_orthography│
+http://www.omniglot.com/writing/persian.htm
+
+----
+شروع
+
+ء أ
+آ / ا
+ب
+پ
+ت
+ث
+ج
+چ
+ح
+خ
+د
+ذ
+ر
+ز
+ژ
+س
+ش
+ص
+ض
+ط
+ظ
+ع
+غ
+ف
+ق
+ک
+گ
+ل
+م
+ن
+و
+ه
+ی
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 19 │ Norwegian      │ Norsk (Bokmål) │ no         
+│    │ (Bokmål)       │                │            
+│<Norwegian orthography - Wikipedia>https://en.wikipedia.org/wiki/Norwegian_orthography │
+http://www.omniglot.com/writing/norwegian.htm
+
+----
+Begynne
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Æ
+Ø
+Å
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 20 │ Arabic         │ العربية        │ ar         
+ │<Arabic alphabet - Wikipedia>https://en.wikipedia.org/wiki/Arabic_orthography│
+http://www.omniglot.com/writing/arabic.htm
+
+
+
+غ	ظ 	ض 	ذ 	خ 	ث 	ت 	ش 	ر 	ق 	ص 	ف 	ع 	س 	ن 	م 	ل 	ك 	ي 	ط 	ح 	ز 	و 	ه 	د 	ج 	ب 	ا
+
+
+
+غ	ظ 	ض 	ذ 	خ 	ث 	ت 	ش 	ر 	ق 	ص 	ف 	ع 	س 	
+ن 	م 	ل 	ك 	ي 	ط 	ح 	ز 	و 	ه 	د 	ج 	ب 	ا
+
+
+
+
+----
+بداية 
+
+س
+ف
+ع
+ش
+ر
+ق
+ص
+غ
+ظ
+ض
+ذ
+خ
+ث
+ت
+
+
+ا
+ج
+ب
+ز
+و
+ه
+د
+ن
+م
+ل
+ك
+ي
+ط
+ح
+
+
+
+----
+
+├────┼────────────────┼────────────────┼────────────
+│    │                │ Srpskohrvatski │            
+│ 21 │ Serbo-Croatian │ /              │ sh         
+│    │                │ Српскохрватски │            
+│<Gaj's Latin alphabet - Wikipedia>https://en.wikipedia.org/wiki/Croatian_orthography │
+ 
+----
+Početak
+
+A
+B
+C
+Č
+Ć
+D
+ǅ
+Đ
+E
+F
+G
+H
+I
+J
+K
+L
+ǈ
+M
+N
+ǋ
+O
+P
+R
+S
+Š
+T
+U
+V
+Z
+Ž
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 22 │ Finnish        │ Suomi          │ fi         
+│<Finnish orthography - Wikipedia>https://en.wikipedia.org/wiki/Finnish_orthography │
+http://www.omniglot.com/writing/finnish.htm
+
+----
+Alku
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Å
+Ä
+Ö
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 23 │ Hungarian      │ Magyar         │ hu         
+│<Hungarian orthography - Wikipedia>https://en.wikipedia.org/wiki/Hungarian_orthography │
+https://en.wikipedia.org/wiki/Hungarian_alphabet
+
+http://www.omniglot.com/writing/hungarian.htm
+
+----
+Indítás
+
+A 	
+Á 
+B
+C
+Cs
+D 
+Dz
+Dzs
+E
+É
+F
+G
+Gy
+H
+I
+Í
+J
+K
+L
+Ly
+M
+N
+Ny
+O
+Ó
+Ö
+Ő
+P
+Q
+R
+S
+Sz
+T
+Ty
+U
+Ú
+Ü
+Ű
+V
+W
+X
+Y
+Z
+Zs
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 24 │ Indonesian     │ Bahasa         │ id         
+│    │                │ Indonesia      │            
+https://en.wikipedia.org/wiki/Malay_alphabet
+https://en.wikipedia.org/wiki/Jawi_alphabet
+http://www.omniglot.com/writing/indonesian.htm
+
+----
+Mulai
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 25 │ Romanian       │ Română         │ ro         
+│<Romanian alphabet - Wikipedia>https://en.wikipedia.org/wiki/Romanian_orthography  │
+http://www.omniglot.com/writing/romanian.htm
+
+----
+Start
+
+A
+Ă
+Â
+B
+C
+D
+E
+F
+G
+H
+I
+Î
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+Ș
+T
+Ț
+U
+V
+W
+X
+Y
+Z
+
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 26 │ Czech          │ Čeština        │ cs         
+│<Czech orthography - Wikipedia>https://en.wikipedia.org/wiki/Czech_orthography     │
+http://www.omniglot.com/writing/czech.htm
+
+----
+Start
+
+A
+Á
+B
+C
+Č
+D
+Ď
+E
+É
+Ě
+F
+G
+H
+I
+Í
+J
+K
+L
+M
+N
+Ň
+O
+Ó
+P
+Q
+R
+Ř
+S
+Š
+T
+Ť
+U
+Ú
+Ů
+V
+W
+X
+Y
+Ý
+Z
+Ž
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 27 │ Korean         │ 한국어         │ ko         
+ │<Korean language - Wikipedia>https://en.wikipedia.org/wiki/Korean_orthography      │
+│<Hangul - Wikipedia>https://en.wikipedia.org/wiki/Korean_Alphabet            │
+	https://en.wikipedia.org/wiki/Hangul
+https://en.wikipedia.org/wiki/Korean_language
+http://www.omniglot.com/writing/korean.htm
+
+https://en.wikipedia.org/wiki/Hangul_consonant_and_vowel_tables
+
+----
+south korean
+ᆨ ᆩ ᆪ ᆫ ᆬ ᆭ ᆮ ᆯ ᆰ ᆱ ᆲ ᆳ ᆴ ᆵ ᆶ ᆷ ᆸ ᆹ ᆺ ᆻ ᆼ ᆽ ᆾ ᆿ ᇀ ᇁ ᇂ
+
+
+
+ㄱ (ㄲ) ㄴ ㄷ (ㄸ) ㄹ ㅁ ㅂ (ㅃ) ㅅ (ㅆ) ㅇ ㅈ (ㅉ) ㅊ ㅋ ㅌ ㅍ ㅎ
+
+ㅏ ㅐ ㅑ ㅒ ㅓ ㅔ ㅕ ㅖ ㅗ ㅘ ㅙ ㅚ ㅛ ㅜ ㅝ ㅞ ㅟ ㅠ ㅡ ㅢ ㅣ
+
+
+
+
+
+
+
+스타트
+
+ᆨ
+ᆩ
+ᆪ
+ᆫ
+ᆬ
+ᆭ
+ᆮ
+ᆯ
+ᆰ
+ᆱ
+ᆲ
+ᆳ
+ᆴ
+ᆵ
+ᆶ
+ᆷ
+ᆸ
+ᆹ
+ᆺ
+ᆻ
+ᆼ
+ᆽ
+ᆾ
+ᆿ
+ᇀ
+ᇁ
+ᇂ
+
+----
+north korean
+ㄱ ㄳ ㄴ ㄵ ㄶ ㄷ ㄹ ㄺ ㄻ ㄼ ㄽ ㄾ ㄿ ㅀ ㅁ ㅂ ㅄ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ ㄲ ㅆ
+
+
+
+ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ‑ᆼ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ ㄲ ㄸ ㅃ ㅆ ㅉ ᄋ‑
+
+ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ ㅐ ㅒ ㅔ ㅖ ㅚ ㅟ ㅢ ㅘ ㅙ ㅝ ㅞ
+
+
+
+
+
+
+
+스타트
+
+ㄱ
+ㄳ
+ㄴ
+ㄵ
+ㄶ
+ㄷ
+ㄹ
+ㄺ
+ㄻ
+ㄼ
+ㄽ
+ㄾ
+ㄿ
+ㅀ
+ㅁ
+ㅂ
+ㅄ
+ㅅ
+ㅇ
+ㅈ
+ㅊ
+ㅋ
+ㅌ
+ㅍ
+ㅎ
+ㄲ
+ㅆ
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 28 │ Serbian        │ Српски /       │ sr         
+│    │                │ Srpski         │            
+ │<Serbian Cyrillic alphabet - Wikipedia>https://en.wikipedia.org/wiki/Serbian_orthography │
+http://www.omniglot.com/writing/serbian.htm
+
+----
+Почетак
+
+А
+Б
+В
+Г
+Д
+Ђ
+Е
+Ж
+З
+И
+Ј
+К
+Л
+Љ
+М
+Н
+Њ
+О
+П
+Р
+С
+Т
+Ћ
+У
+Ф
+Х
+Ц
+Ч
+Џ
+Ш
+
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 29 │ Malay          │ Bahasa Melayu  │ ms         
+https://en.wikipedia.org/wiki/Malay_alphabet
+http://www.omniglot.com/writing/malay.htm
+
+----
+Start
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 30 │ Turkish        │ Türkçe         │ tr         
+│<Turkish alphabet - Wikipedia>https://en.wikipedia.org/wiki/Turkish_orthography│
+http://www.omniglot.com/writing/turkish.htm
+
+----
+Başlama
+
+A
+B
+C
+Ç
+D
+E
+F
+G
+Ğ
+H
+İ
+I
+J
+K
+L
+M
+N
+O
+Ö
+P
+R
+S
+Ş
+T
+U
+Ü
+V
+Y
+Z
+
+
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 31 │ Basque         │ Euskara        │ eu         
+https://en.wikipedia.org/wiki/Basque_alphabet
+https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet
+http://www.omniglot.com/writing/basque.htm
+
+----
+Hasiera
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 32 │ Esperanto      │ Esperanto      │ eo         
+│<Esperanto orthography - Wikipedia>https://en.wikipedia.org/wiki/Esperanto_orthography │
+http://www.omniglot.com/writing/esperanto.htm
+
+----
+Komenco
+
+A 
+B
+C
+Ĉ
+D
+E
+F
+G
+Ĝ
+H
+Ĥ
+I
+J
+Ĵ
+K
+L
+M
+N
+O
+P
+R
+S
+Ŝ
+T
+U
+Ŭ
+V
+Z
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 33 │ Minangkabau    │ Minangkabau    │ min        
+http://www.omniglot.com/writing/minangkabau.htm
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 34 │ Bulgarian      │ Български      │ bg         
+│<Bulgarian alphabet - Wikipedia>https://en.wikipedia.org/wiki/Bulgarian_orthography  │
+http://www.omniglot.com/writing/bulgarian.htm
+
+----
+начало
+
+А
+Б
+В
+Г
+Д
+Е
+Ж
+З
+И
+Й
+К
+Л
+М
+Н
+О
+П
+Р
+С
+Т
+У
+Ф
+Х
+Ц
+Ч
+Ш
+Щ
+Ъ
+Ь
+Ю
+Я
+----
+├────┼────────────────┼────────────────┼────────────
+│ 35 │ Danish         │ Dansk          │ da         
+│<Danish orthography - Wikipedia>https://en.wikipedia.org/wiki/Danish_orthography     │
+http://www.omniglot.com/writing/danish.htm
+
+----
+Starte
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Æ
+Ø
+Å
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 36 │ Kazakh         │ Қазақша        │ kk         
+http://www.omniglot.com/writing/kazakh.htm
+
+
+----morse
+бастау
+
+А
+
+У
+Ш
+Ф
+Г
+К
+Ц
+Р
+М
+Б
+Д
+З
+О   
+
+Е
+Т
+В
+Л
+П
+Щ
+И
+Ч
+С
+Н
+Й
+Ж
+
+
+
+
+Ы
+
+Ь
+Э
+Ю
+Я
+
+
+
+----kk morse
+бастау
+
+
+У
+Ш
+Ф
+Ы
+Г
+К
+Ц
+Р
+М
+А
+Б
+Д
+Ю
+З
+О   
+
+Е
+Т
+Ь
+В
+Л
+П
+Щ
+И
+Ч
+С
+Н
+Я
+Й
+Ж
+Э
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 37 │ Slovak         │ Slovenčina     │ sk         
+ │<Slovak orthography - Wikipedia>https://en.wikipedia.org/wiki/Slovak_orthography │
+
+----
+Štart
+
+A
+Á
+Ä
+B
+C
+Č
+D
+Ď
+DZ
+DŽ
+E
+É
+F
+G
+H
+CH
+I
+Í
+J
+K
+L
+Ĺ
+Ľ
+M
+N
+Ň
+O
+Ó
+Ô
+P
+Q
+R
+Ŕ
+S
+Š
+T
+Ť
+U
+Ú
+V
+W
+X
+Y
+Ý
+Z
+Ž
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 38 │ Armenian       │ Հայերեն        │ hy         
+http://www.omniglot.com/writing/armenian.htm
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 39 │ Min Nan        │ Bân-lâm-gú     │ zh-min-nan 
+http://www.omniglot.com/chinese/min.htm#minnan
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 40 │ Hebrew         │ עברית          │ he         
+│<Hebrew alphabet - Wikipedia>https://en.wikipedia.org/wiki/Hebrew_Alphabet   │
+ │<Hebrew spelling - Wikipedia>https://en.wikipedia.org/wiki/Hebrew_orthography│
+
+----
+הַתחָלָה
+
+א
+בּ
+ב
+ג
+ד
+ה
+ו
+ז
+ח
+ט
+י
+כּ
+כ
+ךּ
+ך
+ל
+מ
+ם
+נ
+ן
+ס
+ע
+פּ
+פ
+ף
+צ
+ץ
+ק
+ר
+שׁ
+שׂ
+תּ
+ת
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 41 │ Lithuanian     │ Lietuvių       │ lt         
+ė│<Lithuanian orthography - Wikipedia>https://en.wikipedia.org/wiki/Lithuanian_orthography │
+
+----
+Pradžia
+
+A 	
+Ą
+B
+C
+Č
+D
+E
+Ę
+Ė
+F
+G
+H
+I
+Į
+Y
+J
+K
+L
+M
+N
+O
+P
+R
+S
+Š
+T
+U
+Ų
+Ū
+V
+Z
+Ž
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 42 │ Croatian       │ Hrvatski       │ hr         
+ │<Gaj's Latin alphabet - Wikipedia>https://en.wikipedia.org/wiki/Croatian_orthography │
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 43 │ Chechen        │ Нохчийн        │ ce         
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 44 │ Slovenian      │ Slovenščina    │ sl         
+ │<Slovene alphabet - Wikipedia>https://en.wikipedia.org/wiki/Slovenian_orthography│
+
+----
+Začetek
+
+A
+B
+C
+Č
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+R
+S
+Š
+T
+U
+V
+Z
+Ž
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 45 │ Estonian       │ Eesti          │ et         
+ │<Estonian orthography - Wikipedia>https://en.wikipedia.org/wiki/Estonian_orthography │
+
+----
+Algus
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+Š
+Z
+Ž
+T
+U
+V
+W
+Õ
+Ä
+Ö
+Ü
+X
+Y
+----
+├────┼────────────────┼────────────────┼────────────
+│ 46 │ Galician       │ Galego         │ gl         
+│<Galician Alphabet - Wikipedia>https://en.wikipedia.org/wiki/Galician_Alphabet       │
+
+----
+Comezo
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+L
+M
+N
+Ñ
+O
+P
+Q
+R
+S
+T
+U
+V
+X
+Z
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 47 │ Norwegian      │ Nynorsk        │ nn         
+│    │ (Nynorsk)      │                │            
+│<Norwegian orthography - Wikipedia>https://en.wikipedia.org/wiki/Norwegian_orthography 
+
+----
+Begynne
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Æ
+Ø
+Å
+----
+├────┼────────────────┼────────────────┼────────────
+│ 48 │ Uzbek          │ O‘zbek         │ uz         
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 49 │ Latin          │ Latina         │ la         
+│<Latin alphabet - Wikipedia>https://en.wikipedia.org/wiki/Latin_Alphabet                     │
+ │<Latin spelling and pronunciation - Wikipedia>https://en.wikipedia.org/wiki/Latin_orthography│
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 50 │ Greek          │ Ελληνικά       │ el         
+ │<Greek alphabet - Wikipedia>https://en.wikipedia.org/wiki/Greek_Alphabet       │
+ │<Greek orthography - Wikipedia>https://en.wikipedia.org/wiki/Greek_orthography │
+
+----
+Αρχή
+
+Α
+Β
+Γ
+Δ
+Ε
+Ζ
+Η
+Θ
+Ι
+Κ
+Λ
+Μ
+Ν
+Ξ
+Ο
+Π
+Ρ
+Σ
+Τ
+Υ
+Φ
+Χ
+Ψ
+Ω
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 51 │ Belarusian     │ Беларуская     │ be         
+https://en.wikipedia.org/wiki/Belarusian_alphabet
+https://en.wikipedia.org/wiki/Belarusian_Latin_alphabet
+https://en.wikipedia.org/wiki/Belarusian_language
+
+https://en.wikipedia.org/wiki/Belarusian_Arabic_alphabet
+
+----
+Старт
+
+А
+Б
+В
+Г
+Д
+Е
+Ё
+Ж
+З
+І
+Й
+К
+Л
+М
+Н
+О
+П
+Р
+С
+Т
+У
+Ў
+Ф
+Х
+Ц
+Ч
+Ш
+Ы
+Ь
+Э
+Ю
+Я
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 52 │ Simple English │ Simple English │ simple     
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 53 │ Volapük        │ Volapük        │ vo         
+https://en.wikipedia.org/wiki/Volap%C3%BCk
+https://en.wikipedia.org/wiki/Volapuk_encoding
+
+----
+----
+├────┼────────────────┼────────────────┼────────────
+│ 54 │ Thai           │ ไทย            │ th         
+ │<Thai alphabet - Wikipedia>https://en.wikipedia.org/wiki/Thai_orthography│
+http://www.omniglot.com/writing/thai.htm
+
+----
+เริ่มต้น
+
+ก
+ข
+ฃ
+ค
+ฅ
+ฆ
+ง
+จ
+ฉ
+ช
+ซ
+ฌ
+ญ
+ฎ
+ฏ
+ฐ
+ฑ
+ฒ
+ณ
+ด
+ต
+ถ
+ท
+ธ
+น
+บ
+ป
+ผ
+ฝ
+พ
+ฟ
+ภ
+ม
+ย
+ร
+ล
+ว
+ศ
+ษ
+ส
+ห
+ฬ
+อ
+ฮ
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 55 │ Hindi          │ हिन्दी            │ hi         
+│<Devanagari - Wikipedia>https://en.wikipedia.org/wiki/Hindi_orthography  │
+http://www.omniglot.com/writing/hindi.htm
+
+----
+
+--vowels
+
+प्रारंभ
+
+
+अ/प 	
+इ/पि 	
+उ/पु 	
+ऋ/पृ 	
+ऌ/पॢ 	
+ए/पे 	
+ओ/पो 	
+अं/पं 	
+आ/पा
+ई/पी
+ऊ/पू
+ॠ/पॄ
+ॡ/पॣ
+ऐ/पै
+औ/पौ
+अः/पः
+
+
+
+--consonants
+प्रारंभ
+
+
+क
+ख
+ग
+घ
+ङ
+ह
+च
+छ
+ज
+झ
+ञ
+य
+श
+ट
+ठ
+ड
+ढ
+ण
+र
+ष
+त
+थ
+द
+ध
+न
+ल
+स
+प
+फ
+ब
+भ
+म
+व
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 56 │ Azerbaijani    │ Azərbaycanca   │ az         
+https://en.wikipedia.org/wiki/Azerbaijani_alphabet
+
+----
+Start
+
+A
+B
+C
+Ç
+D
+E
+Ə
+F
+G
+Ğ
+H
+X
+I
+İ
+J
+K
+Q
+L
+M
+N
+O
+Ö
+P
+R
+S
+Ş
+T
+U
+Ü
+V
+Y
+Z
+----
+├────┼────────────────┼────────────────┼────────────
+│ 57 │ Urdu           │ اردو           │ ur         
+│<Hindustani orthography - Wikipedia>https://en.wikipedia.org/wiki/Urdu_orthography │
+https://en.wikipedia.org/wiki/Urdu_alphabet
+http://www.omniglot.com/writing/urdu.htm
+
+----
+شروع کریں
+
+ا
+ب
+پ
+ت
+ٹ
+ث
+ج
+چ
+ح
+خ
+د
+ڈ
+ذ
+ر
+ڑ
+ز
+ژ
+س
+ش
+ص
+ض
+ط
+ظ
+ع
+غ
+ف
+ق
+ک
+گ
+ل
+م
+ن
+و
+ہ, ﮩ, ﮨ
+ھ      
+ء      
+ی      
+ے      
+
+
+
+----
+├────┼────────────────┼────────────────┼────────────
+│ 58 │ Georgian       │ ქართული        │ ka         
+└────┴────────────────┴────────────────┴────────────
+http://www.omniglot.com/writing/georgian.htm
+
+----
+----
+├─────┼────────────────┼────────────────┼───────────
+│ 59  │ Tamil          │ தமிழ்            │ ta        
+├─────┼────────────────┼────────────────┼───────────
+│ 60  │ Macedonian     │ Македонски     │ mk        
+├─────┼────────────────┼────────────────┼───────────
+│ 61  │ Occitan        │ Occitan        │ oc        
+├─────┼────────────────┼────────────────┼───────────
+│ 62  │ Malagasy       │ Malagasy       │ mg        
+├─────┼────────────────┼────────────────┼───────────
+│ 63  │ Welsh          │ Cymraeg        │ cy        
+├─────┼────────────────┼────────────────┼───────────
+│ 64  │ Latvian        │ Latviešu       │ lv        
+├─────┼────────────────┼────────────────┼───────────
+│ 65  │ Newar          │ नेपाल भाषा         │ new       
+├─────┼────────────────┼────────────────┼───────────
+│ 66  │ Bosnian        │ Bosanski       │ bs        
+├─────┼────────────────┼────────────────┼───────────
+│ 67  │ Tatar          │ Tatarça /      │ tt        
+│     │                │ Татарча        │           
+http://www.omniglot.com/writing/tatar.htm
+
+├─────┼────────────────┼────────────────┼───────────
+│ 68  │ Tajik          │ Тоҷикӣ         │ tg        
+├─────┼────────────────┼────────────────┼───────────
+│ 69  │ Telugu         │ తెలుగు            │ te        
+├─────┼────────────────┼────────────────┼───────────
+│ 70  │ Tagalog        │ Tagalog        │ tl        
+├─────┼────────────────┼────────────────┼───────────
+│ 71  │ Piedmontese    │ Piemontèis     │ pms       
+├─────┼────────────────┼────────────────┼───────────
+│ 72  │ Albanian       │ Shqip          │ sq        
+├─────┼────────────────┼────────────────┼───────────
+│ 73  │ Breton         │ Brezhoneg      │ br        
+├─────┼────────────────┼────────────────┼───────────
+│ 74  │ Belarusian     │ Беларуская     │ be-tarask 
+│     │ (Taraškievica) │ (тарашкевіца)  │           
+├─────┼────────────────┼────────────────┼───────────
+│ 75  │ Kirghiz        │ Кыргызча       │ ky        
+├─────┼────────────────┼────────────────┼───────────
+│ 76  │ Haitian        │ Krèyol ayisyen │ ht        
+├─────┼────────────────┼────────────────┼───────────
+│ 77  │ Javanese       │ Basa Jawa      │ jv        
+├─────┼────────────────┼────────────────┼───────────
+│ 78  │ Cantonese      │ 粵語           │ zh-yue    
+├─────┼────────────────┼────────────────┼───────────
+│ 79  │ Asturian       │ Asturianu      │ ast       
+├─────┼────────────────┼────────────────┼───────────
+│ 80  │ Luxembourgish  │ Lëtzebuergesch │ lb        
+├─────┼────────────────┼────────────────┼───────────
+│ 81  │ Malayalam      │ മലയാളം           │ ml        
+├─────┼────────────────┼────────────────┼───────────
+│ 82  │ Bengali        │ বাংলা             │ bn        
+├─────┼────────────────┼────────────────┼───────────
+│ 83  │ Marathi        │ मराठी            │ mr        
+├─────┼────────────────┼────────────────┼───────────
+│ 84  │ Afrikaans      │ Afrikaans      │ af        
+
+https://en.wikipedia.org/wiki/Afrikaans_phonology
+
+├─────┼────────────────┼────────────────┼───────────
+│     │                │ شاہ مکھی       │           
+│ 85  │ Western        │ پنجابی         │ pnb       
+│     │ Punjabi        │ (Shāhmukhī     │           
+│     │                │ Pañjābī)       │           
+├─────┼────────────────┼────────────────┼───────────
+│ 86  │ Scots          │ Scots          │ sco       
+├─────┼────────────────┼────────────────┼───────────
+│ 87  │ Icelandic      │ Íslenska       │ is        
+├─────┼────────────────┼────────────────┼───────────
+│ 88  │ Irish          │ Gaeilge        │ ga        
+├─────┼────────────────┼────────────────┼───────────
+│ 89  │ Bashkir        │ Башҡорт        │ ba        
+├─────┼────────────────┼────────────────┼───────────
+│ 90  │ West Frisian   │ Frysk          │ fy        
+├─────┼────────────────┼────────────────┼───────────
+│ 91  │ Chuvash        │ Чăваш          │ cv        
+├─────┼────────────────┼────────────────┼───────────
+│ 92  │ Swahili        │ Kiswahili      │ sw        
+├─────┼────────────────┼────────────────┼───────────
+│ 93  │ Lombard        │ Lumbaart       │ lmo       
+├─────┼────────────────┼────────────────┼───────────
+│ 94  │ Burmese        │ မြန်မာဘာသာ        │ my        │ 
+├─────┼────────────────┼────────────────┼───────────
+│ 95  │ Aragonese      │ Aragonés       │ an        
+├─────┼────────────────┼────────────────┼───────────
+│ 96  │ Yoruba         │ Yorùbá         │ yo        
+├─────┼────────────────┼────────────────┼───────────
+│ 97  │ Nepali         │ नेपाली            │ ne        
+├─────┼────────────────┼────────────────┼───────────
+│ 98  │ Ido            │ Ido            │ io        
+├─────┼────────────────┼────────────────┼───────────
+│ 99  │ Gujarati       │ ગુજરાતી           │ gu        
+├─────┼────────────────┼────────────────┼───────────
+│ 100 │ Low Saxon      │ Plattdüütsch   │ nds       
+├─────┼────────────────┼────────────────┼───────────
+│ 101 │ Sicilian       │ Sicilianu      │ scn       
+├─────┼────────────────┼────────────────┼───────────
+│ 102 │ Bishnupriya    │ ইমার ঠার/বিষ্ণুপ্রিয়া  │ bpy       
+│     │ Manipuri       │ মণিপুরী           │           
+├─────┼────────────────┼────────────────┼───────────
+│ 103 │ Punjabi        │ ਪੰਜਾਬੀ            │ pa        
+├─────┼────────────────┼────────────────┼───────────
+│ 104 │ Kurdish        │ Kurdî / كوردی  │ ku        
+├─────┼────────────────┼────────────────┼───────────
+│ 105 │ Alemannic      │ Alemannisch    │ als       
+├─────┼────────────────┼────────────────┼───────────
+│ 106 │ Bavarian       │ Boarisch       │ bar       
+├─────┼────────────────┼────────────────┼───────────
+│ 107 │ Kannada        │ ಕನ್ನಡ           │ kn        
+├─────┼────────────────┼────────────────┼───────────
+│ 108 │ Interlingua    │ Interlingua    │ ia        
+├─────┼────────────────┼────────────────┼───────────
+│ 109 │ Quechua        │ Runa Simi      │ qu        
+├─────┼────────────────┼────────────────┼───────────
+│ 110 │ Sundanese      │ Basa Sunda     │ su        
+├─────┼────────────────┼────────────────┼───────────
+│ 111 │ Sorani         │ Soranî / کوردی │ ckb       
+├─────┼────────────────┼────────────────┼───────────
+│ 112 │ Samogitian     │ Žemaitėška     │ bat-smg   
+├─────┼────────────────┼────────────────┼───────────
+│ 113 │ Mongolian      │ Монгол         │ mn        
+├─────┼────────────────┼────────────────┼───────────
+│ 114 │ Egyptian       │ مصرى (Maṣri)   │ arz       
+│     │ Arabic         │                │           
+├─────┼────────────────┼────────────────┼───────────
+│ 115 │ Neapolitan     │ Nnapulitano    │ nap       
+├─────┼────────────────┼────────────────┼───────────
+│ 116 │ Walloon        │ Walon          │ wa        
+├─────┼────────────────┼────────────────┼───────────
+│ 117 │ Scottish       │ Gàidhlig       │ gd        
+│     │ Gaelic         │                │           
+├─────┼────────────────┼────────────────┼───────────
+│ 118 │ Buginese       │ Basa Ugi       │ bug       
+├─────┼────────────────┼────────────────┼───────────
+│ 119 │ Yiddish        │ ייִדיש          │ yi        
+├─────┼────────────────┼────────────────┼───────────
+│ 120 │ Banyumasan     │ Basa           │ map-bms   
+│     │                │ Banyumasan     │           
+├─────┼────────────────┼────────────────┼───────────
+│ 121 │ Amharic        │ አማርኛ           │ am        
+├─────┼────────────────┼────────────────┼───────────
+│ 122 │ Sinhalese      │ සිංහල            │ si        
+├─────┼────────────────┼────────────────┼───────────
+│ 123 │ Mazandarani    │ مَزِروني         │ mzn       
+├─────┼────────────────┼────────────────┼───────────
+│ 124 │ Faroese        │ Føroyskt       │ fo        
+├─────┼────────────────┼────────────────┼───────────
+│ 125 │ Limburgish     │ Limburgs       │ li        
+├─────┼────────────────┼────────────────┼───────────
+│ 126 │ Nahuatl        │ Nāhuatl        │ nah       
+├─────┼────────────────┼────────────────┼───────────
+│ 127 │ Oriya          │ ଓଡ଼ିଆ            │ or        
+├─────┼────────────────┼────────────────┼───────────
+│ 128 │ Sakha          │ Саха тыла      │ sah       
+│     │                │ (Saxa Tyla)    │           
+├─────┼────────────────┼────────────────┼───────────
+│ 129 │ Venetian       │ Vèneto         │ vec       
+├─────┼────────────────┼────────────────┼───────────
+│ 130 │ Upper Sorbian  │ Hornjoserbsce  │ hsb       
+https://en.wikipedia.org/wiki/Sorbian_alphabet
+https://en.wikipedia.org/wiki/Sorbian_languages
+
+├─────┼────────────────┼────────────────┼───────────
+│ 131 │ South          │ تۆرکجه         │ azb       
+│     │ Azerbaijani    │                │           
+├─────┼────────────────┼────────────────┼───────────
+│ 132 │ Ossetian       │ Иронау         │ os        
+├─────┼────────────────┼────────────────┼───────────
+│ 133 │ Sanskrit       │ संस्कृतम्          │ sa        
+├─────┼────────────────┼────────────────┼───────────
+│ 134 │ Hill Mari      │ Кырык Мары     │ mrj       
+│     │                │ (Kyryk Mary)   │           
+└─────┴────────────────┴────────────────┴───────────
+
+
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 135 │ Fiji Hindi       │ Fiji Hindi        │ hif          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 136 │ Meadow Mari      │ Олык Марий (Olyk  │ mhr          
+│     │                  │ Marij)            │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 137 │ Tarantino        │ Tarandíne         │ roa-tara     
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 138 │ Ilokano          │ Ilokano           │ ilo          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 139 │ Zazaki           │ Zazaki            │ diq          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 140 │ Kapampangan      │ Kapampangan       │ pam          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 141 │ Emilian-Romagnol │ Emiliàn e         │ eml          
+│     │                  │ rumagnòl          │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 142 │ Mingrelian       │ მარგალური         │ xmf          
+│     │                  │ (Margaluri)       │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 143 │ Sindhi           │ سنڌي، سندھی ، सिन्ध │ sd           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 144 │ Bihari           │ भोजपुरी              │ bh           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 145 │ Pashto           │ پښتو              │ ps           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 146 │ Northern Sami    │ Sámegiella        │ se           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 147 │ Hakka            │ Hak-kâ-fa / 客家  │ hak          
+│     │                  │ 話                │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 148 │ Maori            │ Māori             │ mi           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 149 │ Central Bicolano │ Bikol             │ bcl          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 150 │ Dutch Low Saxon  │ Nedersaksisch     │ nds-nl       
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 151 │ Gan              │ 贛語              │ gan          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 152 │ Gilaki           │ گیلکی             │ glk          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 153 │ West Flemish     │ West-Vlams        │ vls          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 154 │ Rusyn            │ Русиньскый        │ rue          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 155 │ Tibetan          │ བོད་སྐད             │ bo           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 156 │ Wu               │ 吴语              │ wuu          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 157 │ Võro             │ Võro              │ fiu-vro      
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 158 │ Corsican         │ Corsu             │ co           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 159 │ Turkmen          │ تركمن / Туркмен   │ tk           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 160 │ Maithili         │ मैथिली               │ mai          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 161 │ Sardinian        │ Sardu             │ sc           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 162 │ Kashubian        │ Kaszëbsczi        │ csb          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 163 │ Silesian         │ Ślůnski           │ szl          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 164 │ Vepsian          │ Vepsän            │ vep          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 165 │ Northern Luri    │ لۊری شومالی       │ lrc          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 166 │ Khmer            │ ភាសាខ្មែរ             │ km           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 167 │ Crimean Tatar    │ Qırımtatarca      │ crh          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 168 │ Manx             │ Gaelg             │ gv           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 169 │ Komi             │ Коми              │ kv           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 170 │ North Frisian    │ Nordfriisk        │ frr          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 171 │ Classical        │ 古文 / 文言文     │ zh-classical 
+│     │ Chinese          │                   │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 172 │ Zeelandic        │ Zeêuws            │ zea          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 173 │ Somali           │ Soomaali          │ so           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 174 │ Assamese         │ অসমীয়া              │ as           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 175 │ Min Dong         │ Mìng-dĕ̤ng-ngṳ̄     │ cdo          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 176 │ Northern Sotho   │ Sepedi            │ nso          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 177 │ Aymara           │ Aymar             │ ay           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 178 │ Saterland        │ Seeltersk         │ stq          
+│     │ Frisian          │                   │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 179 │ Udmurt           │ Удмурт кыл        │ udm          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 180 │ Cornish          │ Kernewek/Karnuack │ kw           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 181 │ Ladino           │ Dzhudezmo         │ lad          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 182 │ Norman           │ Nouormand/        │ nrm          
+│     │                  │ Normaund          │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 183 │ Interlingue      │ Interlingue       │ ie           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 184 │ Komi-Permyak     │ Перем Коми (Perem │ koi          
+│     │                  │ Komi)             │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 185 │ Acehnese         │ Bahsa Acèh        │ ace          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 186 │ Romansh          │ Rumantsch         │ rm           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 187 │ Erzya            │ Эрзянь (Erzjanj   │ myv          
+│     │                  │ Kelj)             │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 188 │ Picard           │ Picard            │ pcd          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 189 │ Ligurian         │ Líguru            │ lij          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 190 │ Maltese          │ Malti             │ mt           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 191 │ Friulian         │ Furlan            │ fur          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 192 │ Guarani          │ Avañe'ẽ           │ gn           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 193 │ Lower Sorbian    │ Dolnoserbski      │ dsb          
+https://en.wikipedia.org/wiki/Sorbian_alphabet
+https://en.wikipedia.org/wiki/Sorbian_languages
+
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 194 │ Divehi           │ ދިވެހިބަސް             │ dv           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 195 │ Zamboanga        │ Chavacano de      │ cbk-zam      
+│     │ Chavacano        │ Zamboanga         │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 196 │ Lezgian          │ Лезги чІал (Lezgi │ lez          
+│     │                  │ č’al)             │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 197 │ Extremaduran     │ Estremeñu         │ ext          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 198 │ Anglo-Saxon      │ Englisc           │ ang          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 199 │ Kabyle           │ Taqbaylit         │ kab          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 200 │ Ripuarian        │ Ripoarisch        │ ksh          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 201 │ Mirandese        │ Mirandés          │ mwl          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 202 │ Lingala          │ Lingala           │ ln           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 203 │ Uyghur           │ ئۇيغۇر تىلى       │ ug           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 204 │ Gagauz           │ Gagauz            │ gag          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 205 │ Shona            │ chiShona          │ sn           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 206 │ Franco-Provençal │ Arpitan           │ frp          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 207 │ Pangasinan       │ Pangasinan        │ pag          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 208 │ Pali             │ पाऴि                │ pi           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 209 │ Goan Konkani     │ गोवा कोंकणी / Gova     │ gom          
+│     │                  │ Konknni           │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 210 │ Navajo           │ Diné bizaad       │ nv           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 211 │ Avar             │ Авар              │ av           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 212 │ Palatinate       │ Pälzisch          │ pfl          
+│     │ German           │                   │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 213 │ Kalmyk           │ Хальмг            │ xal          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 214 │ Karachay-Balkar  │ Къарачай-Малкъар  │ krc          
+│     │                  │ (Qarachay-Malqar) │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 215 │ Hawaiian         │ Hawai`i           │ haw          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 216 │ Karakalpak       │ Qaraqalpaqsha     │ kaa          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 217 │ Buryat           │ Буряад            │ bxr          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 218 │ Kinyarwanda      │ Ikinyarwanda      │ rw           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 219 │ Pennsylvania     │ Deitsch           │ pdc          
+│     │ German           │                   │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 220 │ Tongan           │ faka Tonga        │ to           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 221 │ Novial           │ Novial            │ nov          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 222 │ Greenlandic      │ Kalaallisut       │ kl           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 223 │ Papiamentu       │ Papiamentu        │ pap          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 224 │ Aramaic          │ ܐܪܡܝܐ             │ arc          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 225 │ Kabardian        │ Адыгэбзэ          │ kbd          
+│     │ Circassian       │ (Adighabze)       │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 226 │ Lao              │ ລາວ               │ lo           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 227 │ Banjar           │ Bahasa Banjar     │ bjn          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 228 │ Patois           │ Jamaican Creole   │ jam          
+│     │                  │ English           │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 229 │ Livvinkarjala    │ Livvi-Karelian    │ olo          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 230 │ Hausa            │ هَوُسَ               │ ha           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 231 │ Tok Pisin        │ Tok Pisin         │ tpi          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 232 │ Tetum            │ Tetun             │ tet          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 233 │ Kikuyu           │ Gĩkũyũ            │ ki           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 234 │ Tuvan            │ Тыва              │ tyv          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 235 │ Igbo             │ Igbo              │ ig           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 236 │ Nauruan          │ dorerin Naoero    │ na           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 237 │ Lak              │ Лакку             │ lbe          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 238 │ Lojban           │ Lojban            │ jbo          
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 239 │ Aromanian        │ Armãneashce       │ roa-rup      
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 240 │ Tahitian         │ Reo Mā`ohi        │ ty           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 241 │ Kongo            │ KiKongo           │ kg           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 242 │ Zhuang           │ Cuengh            │ za           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 243 │ Moksha           │ Мокшень (Mokshanj │ mdf          
+│     │                  │ Kälj)             │              
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 244 │ Luganda          │ Luganda           │ lg           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 245 │ Wolof            │ Wolof             │ wo           
+├─────┼──────────────────┼───────────────────┼──────────────
+│ 246 │ Sranan           │ Sranantongo       │ srn          
+└─────┴──────────────────┴───────────────────┴──────────────
+
+├─────┼───────────┼─────────────────┼──────
+│ 247 │ Abkhazian │ Аҧсуа           │ ab   
+├─────┼───────────┼─────────────────┼──────
+│ 248 │ Latgalian │ Latgaļu         │ ltg  
+├─────┼───────────┼─────────────────┼──────
+│ 249 │ Zulu      │ isiZulu         │ zu   
+├─────┼───────────┼─────────────────┼──────
+│ 250 │ Cherokee  │ ᏣᎳᎩ             │ chr  
+├─────┼───────────┼─────────────────┼──────
+│ 251 │ Samoan    │ Gagana Samoa    │ sm   
+├─────┼───────────┼─────────────────┼──────
+│ 252 │ Oromo     │ Oromoo          │ om   
+├─────┼───────────┼─────────────────┼──────
+│ 253 │ ತುಳು        │ Tulu            │ tcy  
+├─────┼───────────┼─────────────────┼──────
+│ 254 │ Tswana    │ Setswana        │ tn   
+├─────┼───────────┼─────────────────┼──────
+│ 255 │ Cheyenne  │ Tsetsêhestâhese │ chy  
+├─────┼───────────┼─────────────────┼──────
+│ 256 │ Bislama   │ Bislama         │ bi   
+├─────┼───────────┼─────────────────┼──────
+│ 257 │ Romani    │ romani - रोमानी    │ rmy  
+├─────┼───────────┼─────────────────┼──────
+│     │ Old       │                 │      
+│ 258 │ Church    │ Словѣньскъ      │ cu   
+│     │ Slavonic  │                 │      
+├─────┼───────────┼─────────────────┼──────
+│ 259 │ Twi       │ Twi             │ tw   
+├─────┼───────────┼─────────────────┼──────
+│ 260 │ Xhosa     │ isiXhosa        │ xh   
+├─────┼───────────┼─────────────────┼──────
+│ 261 │ Tumbuka   │ chiTumbuka      │ tum  
+├─────┼───────────┼─────────────────┼──────
+│ 262 │ Kirundi   │ Kirundi         │ rn   
+├─────┼───────────┼─────────────────┼──────
+│ 263 │ Norfolk   │ Norfuk          │ pih  
+├─────┼───────────┼─────────────────┼──────
+│ 264 │ Gothic    │ 𐌲𐌿𐍄𐌹𐍃𐌺          │ got  
+├─────┼───────────┼─────────────────┼──────
+│ 265 │ Pontic    │ Ποντιακά        │ pnt  
+├─────┼───────────┼─────────────────┼──────
+│ 266 │ Swati     │ SiSwati         │ ss   
+├─────┼───────────┼─────────────────┼──────
+│ 267 │ Chamorro  │ Chamoru         │ ch   
+├─────┼───────────┼─────────────────┼──────
+│ 268 │ Bambara   │ Bamanankan      │ bm   
+├─────┼───────────┼─────────────────┼──────
+│ 269 │ Adyghe    │ Адыгэбзэ        │ ady  
+├─────┼───────────┼─────────────────┼──────
+│ 270 │ Moldovan  │ Молдовеняскэ    │ mo   
+├─────┼───────────┼─────────────────┼──────
+│ 271 │ Tsonga    │ Xitsonga        │ ts   
+├─────┼───────────┼─────────────────┼──────
+│ 272 │ Inuktitut │ ᐃᓄᒃᑎᑐᑦ          │ iu   
+├─────┼───────────┼─────────────────┼──────
+│ 273 │ Chichewa  │ Chichewa        │ ny   
+├─────┼───────────┼─────────────────┼──────
+│ 274 │ Sesotho   │ Sesotho         │ st   
+├─────┼───────────┼─────────────────┼──────
+│ 275 │ Fijian    │ Na Vosa         │ fj   
+│     │           │ Vakaviti        │      
+├─────┼───────────┼─────────────────┼──────
+│ 276 │ Ewe       │ Eʋegbe          │ ee   
+├─────┼───────────┼─────────────────┼──────
+│ 277 │ Akan      │ Akana           │ ak   
+├─────┼───────────┼─────────────────┼──────
+│ 278 │ Kashmiri  │ कश्मीरी / كشميري   │ ks   
+├─────┼───────────┼─────────────────┼──────
+│ 279 │ Inupiak   │ Iñupiak         │ ik   
+├─────┼───────────┼─────────────────┼──────
+│ 280 │ Sango     │ Sängö           │ sg   
+├─────┼───────────┼─────────────────┼──────
+│ 281 │ Venda     │ Tshivenda       │ ve   
+├─────┼───────────┼─────────────────┼──────
+│ 282 │ Dzongkha  │ ཇོང་ཁ            │ dz   
+├─────┼───────────┼─────────────────┼──────
+│ 283 │ Fula      │ Fulfulde        │ ff   
+├─────┼───────────┼─────────────────┼──────
+│ 284 │ Tigrinya  │ ትግርኛ            │ ti   
+├─────┼───────────┼─────────────────┼──────
+│ 285 │ Cree      │ Nehiyaw         │ cr   
+└─────┴───────────┴─────────────────┴──────
+
+├─────┼─────────────┼───────────┼──────
+│ 286 │ Ndonga      │ Oshiwambo │ ng   
+├─────┼─────────────┼───────────┼──────
+│ 287 │ Choctaw     │ Choctaw   │ cho  
+├─────┼─────────────┼───────────┼──────
+│ 288 │ Kuanyama    │ Kuanyama  │ kj   
+├─────┼─────────────┼───────────┼──────
+│ 289 │ Marshallese │ Ebon      │ mh   
+├─────┼─────────────┼───────────┼──────
+│ 290 │ Hiri Motu   │ Hiri Motu │ ho   
+├─────┼─────────────┼───────────┼──────
+│ 291 │ Sichuan Yi  │ ꆇꉙ      │ ii   
+├─────┼─────────────┼───────────┼──────
+│ 292 │ Afar        │ Afar      │ aa   
+├─────┼─────────────┼───────────┼──────
+│ 293 │ Muscogee    │ Muskogee  │ mus  
+└─────┴─────────────┴───────────┴──────
+
+├─────┼──────────┼────────────┼──────
+│ 294 │ Herero   │ Otsiherero │ hz   
+├─────┼──────────┼────────────┼──────
+│ 295 │ Kanuri   │ Kanuri     │ kr   
+└─────┴──────────┴────────────┴──────
+
+
+
+
+
+
+
+
+
+
