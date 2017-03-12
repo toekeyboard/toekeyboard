@@ -1,0 +1,23 @@
+Source: xoscope
+Section: x11
+Priority: optional
+Maintainer: Bhavani Shankar <right2bhavi@gmail.com>
+Build-Depends:
+ cdbs,
+ debhelper (>= 9),
+ autotools-dev,
+ libgtk2.0-dev,
+ quilt,
+ libcomedi-dev [!hurd-any],
+ libfftw3-dev,
+ libgtkdatabox-0.9.2-0-dev
+Standards-Version: 3.9.8
+Homepage: http://xoscope.sourceforge.net/
+
+Package: xoscope
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: digital oscilloscope
+ Xoscope is a oscilloscope using input from a sound card or EsounD server and/or
+ a COMEDI hardware. Includes 8 signal displays, variable time scale, math, memory,
+ measurements, and file save/load.

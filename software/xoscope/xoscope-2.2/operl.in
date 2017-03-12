@@ -1,0 +1,71 @@
+
+# Copyright (C) 1996 - 2001 Tim Witham <twitham@pcocd2.intel.com>
+# Copyright (C) 2015 Brent Baccala <cosine@freesoft.org>
+
+# (see the files README and COPYING for more details)
+
+# xoscope external math filter command example in perl
+
+# !!! Please see bottom of this file for instructions and examples !!!
+
+$| = 1;				# unbuffer stdout
+$0 =~ s!.*/!!;			# reduce to program basename
+$func = $ENV{FUNC};		# get function to run from environment
+$samples = $ARGV[1] || 640;	# assume 640 total samples per screen
+$func =~ s/\#.*$//;		# toss comments
+$func =~ s/^\s*(\$0\s*=)?\s*//;	# and assumed leading/trailing stuff, if any
+$func =~ s/\s*;*\s*$//;
+die "usage: $0 'perl math function of \$t, \$ch1 and \$ch2' [sample length]\n"
+    unless $func;		# oops
+$func = "\$out = $func;";	# '$out=' and ';' are implied around function
+
+open(IN, '<&3')			# open non-standard input for reading
+    || die "$0: Can't read input: $!\n";
+open(OUT, '>-')			# and stdout for writing
+    || die "$0: Can't write stdout: $!\n";
+
+$pi = 3.14159265359;		# define pi for user's convenience
+$t = 0;				# sample position number (time)
+for (1..$samples) {		# initialize sample memory "shift registers"
+    push(@ch1, 0);		# channel 1 (left)
+    push(@ch2, 0);		# channel 2 (right)
+    push(@out, 0);		# output back to software channel
+}
+
+# For efficiency, we now dynamically build a while loop around the
+# user's function then evaluate (compile and run) it once.
+
+# begin of loop: how to read the samples (two shorts) from stdin:
+$begin = '
+while(1) {
+    sysread(IN, $buff, 2) || exit;
+    $ch1 = unpack(\'s\', $buff);
+    sysread(IN, $buff, 2) || exit;
+    $ch2 = unpack(\'s\', $buff);
+
+';
+
+# end: how to increment time, remember the samples, and write result to stdout:
+$end = '
+
+    $t = 0 if ++$t >= $samples;';
+
+# sample history is expensive, so we only remember those the function needs:
+$end .= '
+    pop(@ch1); unshift(@ch1, $ch1);' if $func =~ /\$ch1\[/;
+$end .= '
+    pop(@ch2); unshift(@ch2, $ch2);' if $func =~ /\$ch2\[/;
+$end .= '
+    pop(@out); unshift(@out, $out);' if $func =~ /\$out\[/;
+
+$end .= '
+    syswrite(OUT, pack(\'s\', $out), 2) || exit;
+}
+';
+
+# now put the loop around the user's function
+eval $begin.$func.$end;		# and finally run the loop forever
+warn "$@\n" if $@;		# show any user syntax errors on stderr
+
+__END__
+{}

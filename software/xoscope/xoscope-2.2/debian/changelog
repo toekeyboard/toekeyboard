@@ -1,0 +1,154 @@
+xoscope (2.2-0.1) unstable; urgency=medium
+
+  * Non-maintainer upload with maintainer approval.
+  * New upstream version 2.2.
+    - Removed 01-obsolete-readme.patch and 02-clean-builtinsh.patch
+      now applied upstream.
+    - Adjusted d/rules to work with new upstream version.
+  * Correct package description to match current hardware support
+    (Closes: #782989).
+
+ -- Petter Reinholdtsen <pere@debian.org>  Sun, 18 Sep 2016 07:53:07 +0200
+
+xoscope (2.1-0.3) unstable; urgency=medium
+
+  * Non-maintainer upload with maintainer approval.
+  * Dropped debian specific desktop file and use the one from upstream
+    instead.
+  * Dropped bitxoscope(1) manual page, as the binary is no longer part
+    of xoscope.
+  * Do not build depend on libcomedi-dev on Hurd, where it is missing.
+
+ -- Petter Reinholdtsen <pere@debian.org>  Tue, 13 Sep 2016 07:24:21 +0000
+
+xoscope (2.1-0.2) unstable; urgency=medium
+
+  * Non-maintainer upload with maintainer approval.
+  * Added libfftw3-dev as new build dependency.
+
+ -- Petter Reinholdtsen <pere@debian.org>  Mon, 12 Sep 2016 20:36:06 +0000
+
+xoscope (2.1-0.1) unstable; urgency=medium
+
+  * Non-maintainer upload with maintainer approval.
+  * New upstream version 2.1 (Closes: #778667)
+    - New version work with ALSA and Pulseaudio (Closes #710880).
+    - Adjusted build rules and patches for new version.
+  * Moved source to git and added d/gbp.conf to enforce using pristine-tar.
+  * Removed obsolete Debian menu file.
+  * Moved source to 3.0 (quilt) format.
+  * Updated Standards-Version from 3.8.3 to 3.9.8.
+  * Removed now obsolete DM-Upload-Allowed from d/control.
+  * Switched to debhelper 9.
+
+ -- Petter Reinholdtsen <pere@debian.org>  Mon, 12 Sep 2016 19:23:47 +0000
+
+xoscope (2.0-3.2) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Patch by Matthias Klose <doko@ubuntu.com>, fix FTBFS, 
+    building with deprecated gdk/gtk stuff again. Closes: #622002.
+
+ -- Konstantinos Margaritis <markos@debian.org>  Tue, 31 Jan 2012 18:52:33 +0200
+
+xoscope (2.0-3.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * debian/patches/02-deprecated_GTK.patch:
+    - Replace deprecated GTK macro with related function (Closes: #577306).
+
+ -- Luca Falavigna <dktrkranz@debian.org>  Sat, 08 May 2010 02:06:34 +0200
+
+xoscope (2.0-3) unstable; urgency=low
+
+  * Upload to unstable.
+  * Add build-dep on libcomedi-dev Closes: #508694
+  * Bump standards-version to 3.8.3. No other Changes.
+  * Remove 01-xoscope_pointer_fix.patch as per Gudjon's request
+  * Rename 02-comedi_compile.patch to 01-comedi_compile.patch
+
+ -- Bhavani Shankar <right2bhavi@gmail.com>  Wed, 19 Aug 2009 19:20:20 +0530
+
+xoscope (2.0-2) experimental; urgency=low
+
+  * Remove encoding key from desktop entry as its depreceated.
+  * Base package on quilt patch system.
+  * Readd modified 01-xoscope_pointer_fix.patch (Since package is moved
+    to quilt.)
+  * Really compile with comedi support. Thanks to Gudjon I. Gudjonsson
+    for the intimation.
+    + Add 02-comedi_compile.patch
+
+ -- Bhavani Shankar <right2bhavi@gmail.com>  Sun, 16 Aug 2009 21:14:31 +0530
+
+xoscope (2.0-1) unstable; urgency=medium
+
+  * Adopting the package with steffen's blessings. Closes: #446445
+  * New upstream version Closes: #515989 #537291
+  * debian/control:
+    + Add myself as maintainer
+    + Change build dep from libgtk-dev to libgtk2.0-dev to fix FTBFS. 
+      Closes: #534060
+    + Bump up standards version to 3.8.2 and move homepage from package 
+      description to homepage field
+    + Add build depend on autotools-dev. Thanks to Lintian
+  * debian/copyright:
+    + Added Brent Baccala <baccala@freesoft.org> to authors
+  * Minimize debian/rules (Thanks to onkar shinde for help on this)
+  * Update debian/menu to use Applications/Education
+  * Update bitxoscope manpage description 
+  * Clean up debian/docs to remove reference to non existant files.
+  * Remove 01-xoscope_pointer_fix.patch as no longer its applicable. 
+  * Add watch file
+  * Update desktop file.
+
+ -- Bhavani Shankar <right2bhavi@gmail.com>  Wed, 12 Aug 2009 13:20:43 +0530
+
+xoscope (1.12-5) unstable; urgency=low
+
+  * Upload to unstable
+
+ -- Steffen Joeris <white@debian.org>  Mon, 23 Apr 2007 07:24:03 +1000
+
+xoscope (1.12-4) experimental; urgency=low
+
+  * New experimental patch release (Closes: #342148)
+  * Including 01-xoscope_pointer_fix.patch,
+    thanks to Gudjon I. Gudjonsson for the patch
+   - Fixes pointer handling and let it compile on 64 bit architectures
+   - Adjusting debian/rules file and using simple-patchsys
+  * Change my maintainer address
+   
+
+ -- Steffen Joeris <white@debian.org>  Thu, 15 Feb 2007 20:37:41 +1100
+
+xoscope (1.12-3) unstable; urgency=low
+
+  * Remove libsvga1-dev as build-depends to make sure that the package
+    builds an all the 32 bit archs again
+  * Don't build oscope anymore (Closes: #397243)
+
+ -- Steffen Joeris <steffen.joeris@skolelinux.de>  Mon, 13 Nov 2006 23:14:46 +1100
+
+xoscope (1.12-2.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Added missing dependency on libsvga1-dev needed to compile oscope.
+    (Closes: #397243)
+  * Bumped compat to 5.
+  * Bumped Standards-Version to 3.7.2, no changes required.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 10 Nov 2006 23:07:26 +0100
+
+xoscope (1.12-2) unstable; urgency=low
+
+  * Rename binary bitscope to bitxoscope (Closes: #341297) 
+
+ -- Steffen Joeris <steffen.joeris@skolelinux.de>  Wed, 30 Nov 2005 11:29:49 +0100
+
+xoscope (1.12-1) unstable; urgency=low
+
+  * Initial release (Closes: #282012)
+
+ -- Steffen Joeris <steffen.joeris@skolelinux.de>  Mon, 21 Nov 2005 13:36:36 +0100
+

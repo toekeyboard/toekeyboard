@@ -1,0 +1,8 @@
+#!/usr/bin/make -f
+
+include /usr/share/cdbs/1/class/autotools.mk
+include /usr/share/cdbs/1/rules/debhelper.mk
+include /usr/share/cdbs/1/rules/patchsys-quilt.mk
+
+# Workaround for build insisting on running aclocal-1.15 and automake-1.15
+DEB_MAKE_EXTRA_ARGS+=ACLOCAL=true AUTOMAKE=true

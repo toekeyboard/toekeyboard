@@ -1,0 +1,52 @@
+
+xoscope - Digital Oscilloscope via Sound Card/COMEDI
+
+Latest official version and more is available at:
+
+		http://xoscope.sourceforge.net/
+
+
+	SUMMARY:
+
+xoscope is a digital oscilloscope that uses a sound card (via ALSA or
+EsounD) and/or a data acquisition card (via COMEDI) as the signal
+input.
+
+	WHAT YOU NEED:
+
+A modern Linux distribution should be able to build xoscope from
+source.
+
+* You will need GTK+ 2 (version 2.18 or newer).
+
+* You will need the gtkdatabox library.  For best visual results, you
+  may wish to use the version from the xoscope git repository.
+
+* You will need the fftw library.
+
+* You will need (optionally) the ALSA, ESD, or COMEDI libraries.  If
+  any (or all) of these libraries are absent, xoscope will build
+  without that library's input capability.
+
+
+	INSTALLATION:
+
+* ./configure
+
+* make
+
+* make install
+
+
+	USAGE:
+
+Please see the man page for instructions on how to use xoscope.  Also
+use the option `-h' to show command-line options, and the `?' key to
+show the key help.  If you're interested in doing advanced signal math
+at run-time, see the Perl function help under the Channel/Math menu.
+
+
+	EXTRA:
+
+If you like to build things, the hardware/ directory contains plans
+for a buffer circuit to interface electronics to a sound card.

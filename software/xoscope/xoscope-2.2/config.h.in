@@ -1,0 +1,222 @@
+/* config.h.in.  Generated from configure.ac by autoheader.  */
+
+/* calculate RMS of captured signal */
+#undef CALC_RMS
+
+/* max number of channels */
+#undef CHANNELS
+
+/* Descr */
+#undef COMEDI_GET_CMD_GENERIC_TIMED_TAKES_5_ARGS
+
+/* default external command pipe */
+#undef COMMAND
+
+/* default ALSA soundcard device */
+#undef DEFAULT_ALSADEVICE
+
+/* active channel */
+#undef DEF_A
+
+/* graticle in front of data */
+#undef DEF_B
+
+/* X11 font */
+#undef DEF_FX
+
+/* full graticle display */
+#undef DEF_G
+
+/* cursor lines */
+#undef DEF_L
+
+/* plot mode 2 (lines, sweep) */
+#undef DEF_P
+
+/* sample rate in Hz */
+#undef DEF_R
+
+/* time scale in ms/div */
+#undef DEF_S
+
+/* trigger level */
+#undef DEF_T
+
+/* verbose display off */
+#undef DEF_V
+
+/* maximum samples to discard at each pass if we have too many */
+#undef DISCARDBUF
+
+/* output from fft is compressed (or streched) to that number of bands */
+#undef FFT_DSP_LEN
+
+/* default file name */
+#undef FILENAME
+
+/* Define to 1 if you have the <dirent.h> header file, and it defines `DIR'.
+   */
+#undef HAVE_DIRENT_H
+
+/* Define to 1 if you have the <fcntl.h> header file. */
+#undef HAVE_FCNTL_H
+
+/* Define to 1 if you have the `getcwd' function. */
+#undef HAVE_GETCWD
+
+/* Define if gtkdatabox supports setting grid line styles. */
+#undef HAVE_GRID_LINESTYLE
+
+/* Define to 1 if you have the <inttypes.h> header file. */
+#undef HAVE_INTTYPES_H
+
+/* Define to 1 if you have the `asound' library (-lasound). */
+#undef HAVE_LIBASOUND
+
+/* Define to 1 if you have the `comedi' library (-lcomedi). */
+#undef HAVE_LIBCOMEDI
+
+/* Define to 1 if you have the `esd' library (-lesd). */
+#undef HAVE_LIBESD
+
+/* Define to 1 if you have the `fftw3' library (-lfftw3). */
+#undef HAVE_LIBFFTW3
+
+/* Define to 1 if you have the `m' library (-lm). */
+#undef HAVE_LIBM
+
+/* Define to 1 if you have the <limits.h> header file. */
+#undef HAVE_LIMITS_H
+
+/* Define to 1 if you have the <memory.h> header file. */
+#undef HAVE_MEMORY_H
+
+/* Define to 1 if you have the <ndir.h> header file, and it defines `DIR'. */
+#undef HAVE_NDIR_H
+
+/* Define to 1 if you have the `putenv' function. */
+#undef HAVE_PUTENV
+
+/* Define to 1 if you have the `select' function. */
+#undef HAVE_SELECT
+
+/* Define to 1 if you have the <stdint.h> header file. */
+#undef HAVE_STDINT_H
+
+/* Define to 1 if you have the <stdlib.h> header file. */
+#undef HAVE_STDLIB_H
+
+/* Define to 1 if you have the `strdup' function. */
+#undef HAVE_STRDUP
+
+/* Define to 1 if you have the <strings.h> header file. */
+#undef HAVE_STRINGS_H
+
+/* Define to 1 if you have the <string.h> header file. */
+#undef HAVE_STRING_H
+
+/* Define to 1 if you have the `strstr' function. */
+#undef HAVE_STRSTR
+
+/* Define to 1 if you have the `strtol' function. */
+#undef HAVE_STRTOL
+
+/* Define to 1 if you have the <sys/dir.h> header file, and it defines `DIR'.
+   */
+#undef HAVE_SYS_DIR_H
+
+/* Define to 1 if you have the <sys/ioctl.h> header file. */
+#undef HAVE_SYS_IOCTL_H
+
+/* Define to 1 if you have the <sys/ndir.h> header file, and it defines `DIR'.
+   */
+#undef HAVE_SYS_NDIR_H
+
+/* Define to 1 if you have the <sys/stat.h> header file. */
+#undef HAVE_SYS_STAT_H
+
+/* Define to 1 if you have the <sys/time.h> header file. */
+#undef HAVE_SYS_TIME_H
+
+/* Define to 1 if you have the <sys/types.h> header file. */
+#undef HAVE_SYS_TYPES_H
+
+/* Define to 1 if you have <sys/wait.h> that is POSIX.1 compatible. */
+#undef HAVE_SYS_WAIT_H
+
+/* Define to 1 if you have the <termio.h> header file. */
+#undef HAVE_TERMIO_H
+
+/* Define to 1 if you have the <unistd.h> header file. */
+#undef HAVE_UNISTD_H
+
+/* shell command for X11 help */
+#undef HELPCOMMAND
+
+/* Define to 1 if `major', `minor', and `makedev' are declared in <mkdev.h>.
+   */
+#undef MAJOR_IN_MKDEV
+
+/* Define to 1 if `major', `minor', and `makedev' are declared in
+   <sysmacros.h>. */
+#undef MAJOR_IN_SYSMACROS
+
+/* maximum number of samples stored in memories */
+#undef MAXWID
+
+/* minimum number of milliseconds between refresh on libsx version */
+#undef MSECREFRESH
+
+/* Name of package */
+#undef PACKAGE
+
+/* Define to the address where bug reports for this package should be sent. */
+#undef PACKAGE_BUGREPORT
+
+/* Define to the full name of this package. */
+#undef PACKAGE_NAME
+
+/* Define to the full name and version of this package. */
+#undef PACKAGE_STRING
+
+/* Define to the one symbol short name of this package. */
+#undef PACKAGE_TARNAME
+
+/* Define to the home page for this package. */
+#undef PACKAGE_URL
+
+/* Define to the version of this package. */
+#undef PACKAGE_VERSION
+
+/* Path to Perl executable */
+#undef PERL
+
+/* Define as the return type of signal handlers (`int' or `void'). */
+#undef RETSIGTYPE
+
+/* samples to discard after a reset */
+#undef SAMPLESKIP
+
+/* use 16 bit format for sound card */
+#undef SC_16BIT
+
+/* Define to 1 if you have the ANSI C header files. */
+#undef STDC_HEADERS
+
+/* Define to 1 if you can safely include both <sys/time.h> and <time.h>. */
+#undef TIME_WITH_SYS_TIME
+
+/* Define to 1 if your <sys/time.h> declares `struct tm'. */
+#undef TM_IN_SYS_TIME
+
+/* Version number of package */
+#undef VERSION
+
+/* Define to 1 if the X Window System is missing or not being used. */
+#undef X_DISPLAY_MISSING
+
+/* Define to empty if `const' does not conform to ANSI C. */
+#undef const
+
+/* Define to `unsigned int' if <sys/types.h> does not define. */
+#undef size_t
