@@ -11,8 +11,13 @@ IRC channel: #toekeyboard on freenode
 ## Requirements ##
 
 	apertium - Shallow-transfer machine translation engine
+	dictd - dictionary server
 	espeak - Multi-lingual software speech synthesizer
 	surfraw - fast unix command line interface to WWW
+
+In Debian/Ubuntu:
+
+        apt install <programs seperated by spaces>
 
 
 
