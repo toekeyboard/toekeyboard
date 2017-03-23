@@ -47,16 +47,19 @@ key_codes = {
     "rllr" : "x",
     "rlrr" : "y",
     "rrll" : "z",
+
     "lrrrr" : "1",
     "llrrr" : "2",
     "lllrr" : "3",
     "llllr" : "4",
     "lllll" : "5",
+
     "rllll" : "6",
     "rrlll" : "7",
     "rrrll" : "8",
     "rrrrl" : "9",
     "rrrrr" : "0",
+
 
     #filler so not undefined
     "" : "",
@@ -66,8 +69,27 @@ key_codes = {
     "rrrr" : "[dah]",
 
     "lrlrlr" : ".", #full_stop
+    "rlrlrl" : ";", #semicolon
     "rrllrr" : ",", #comma
     "rrllrr" : "?", #question_mark
+    "rlrlrr" : "!", 
+    "lrrlrl" : "@",
+    "rllrlr" : "#",
+
+    "lrlrl" : "+",
+    "rllllr" : "-",
+    "rllrl" : "/",
+    "lrrlr" : "*",
+
+    "rlrrl" : "(",
+    "rlrrlr" : ")",
+    "lrrrrl" : "'",
+    "lrlll" : "&",
+    "rrrlll" : ":",
+    "rlllr" : "=",
+    "llrrlr" : "_",
+    "lllrllr" : "\"",
+
 }
 
 
@@ -193,10 +215,11 @@ def print_event(threadName, counter):
     text_input = ""
 
     #usage: python main.py 21
+    #/dev/input$ls -1 event*        //mouse plugged in and out
     #infile_path = "/dev/input/event" + (sys.argv[1] if len(sys.argv) > 1 else "0")
 
-    infile_path = "/dev/input/event17"
-    #infile_path = "/dev/input/event21"
+    #infile_path = "/dev/input/event3"
+    infile_path = "/dev/input/event22"
 
     #long int, long int, unsigned short, unsigned short, unsigned int
     FORMAT = 'llHHI'

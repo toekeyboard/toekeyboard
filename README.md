@@ -8,4 +8,12 @@ IRC channel: #toekeyboard on freenode
 ([webchat1](https://kiwiirc.com/client/irc.freenode.net/?nick=a|?#toekeyboard))
 ([webchat2](http://webchat.freenode.net/?randomnick=1&channels=toekeyboard))
 
-Version: 2017-03-11
+## Requirements ##
+
+	apertium - Shallow-transfer machine translation engine
+	espeak - Multi-lingual software speech synthesizer
+	surfraw - fast unix command line interface to WWW
+
+
+
+Version: 2017-03-23
