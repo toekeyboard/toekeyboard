@@ -1,0 +1,34 @@
+while [[ $# -gt 1 ]]
+do
+key="$1"
+
+case $key in
+    -l|--langs)
+	PAIR="$2"
+	echo ${PAIR} > pair
+	shift # past argument
+	;;
+    --default)
+	DEFAULT=YES
+	;;
+    *)
+	# unknown option
+	;;
+esac
+shift # past argument or value
+done
+
+echo $PAIR
+
+#si
+#if [ -z "$LANGS" ]; then
+#        LANGS=0
+#fi
+
+#if [[ -n $1 ]]; then
+#    URL=$1
+#    echo ${URL}
+#fi
+
+
+

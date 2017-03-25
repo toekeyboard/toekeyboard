@@ -1,0 +1,15 @@
+phrase="$@"
+
+pair=`cat pair`
+
+#http://serverfault.com/questions/7503/how-to-determine-if-a-bash-variable-is-empty#7509
+#si n'a pas de phrase
+
+if [ -z "$phrase" ]; then
+        cat pair
+	exit
+fi
+
+$pair $@
+
+echo $pair

@@ -1,0 +1,8 @@
+if [ -z $1 ]; then
+        cat pair
+	exit
+fi
+
+echo $1
+
+echo $1 > pair

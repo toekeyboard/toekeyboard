@@ -6,20 +6,48 @@
 import threading
 import struct
 import time
+from datetime import datetime
 #from time import time
 import os, sys
+
+#usage: python main.py 21
+#/dev/input$ls -1 event*        //mouse plugged in and out
+#infile_path = "/dev/input/event" + (sys.argv[1] if len(sys.argv) > 1 else "0")
+
+#infile_path = "/dev/input/event3"
+infile_path = "/dev/input/event12"
+
+
+
+
+
+
+
+global difference_in_time
+global text_input
+
+global this_time
+#global last_time
+
+#global code_current
+#global key_codes
+
+global flag_click
+
+
 
 
 
 
 left = 272
 right = 273
-counter = 0
+#counter = 0
 down = 1
 up = 0
 last_time=0
 
 
+# https://en.wikipedia.org/wiki/Morse_code#Letters.2C_numbers.2C_punctuation.2C_prosigns_for_Morse_code_and_non-English_variants
 key_codes = {
     "lr" : "a",
     "rlll" : "b",
@@ -35,7 +63,7 @@ key_codes = {
     "lrll" : "l",
     "rr" : "m",
     "rl" : "n",
-    "rr" : "o",
+    "rrr" : "o",
     "lrrl" : "p",
     "rrlr" : "q",
     "lrl" : "r",
@@ -62,16 +90,18 @@ key_codes = {
 
 
     #filler so not undefined
-    "" : "",
-    "llrr" : "[dah]",   
-    "lrlr" : "[dah]",
-    "rrrl" : "[dit]",
-    "rrrr" : "[dah]",
+    #"" : "",
+    #"llrr" : "[dah]",   
+    #"lrlr" : "[dah]",
+    #"rrrl" : "[dit]",
+    #"rrrr" : "[dah]",
 
     "lrlrlr" : ".", #full_stop
     "rlrlrl" : ";", #semicolon
+
     "rrllrr" : ",", #comma
-    "rrllrr" : "?", #question_mark
+    "llrrll" : "?", #question_mark
+
     "rlrlrr" : "!", 
     "lrrlrl" : "@",
     "rllrlr" : "#",
@@ -80,71 +110,23 @@ key_codes = {
     "rllllr" : "-",
     "rllrl" : "/",
     "lrrlr" : "*",
+    "rlllr" : "=",
 
     "rlrrl" : "(",
     "rlrrlr" : ")",
+
     "lrrrrl" : "'",
     "lrlll" : "&",
     "rrrlll" : ":",
-    "rlllr" : "=",
     "llrrlr" : "_",
-    "lllrllr" : "\"",
-
+    "lrllrl" : "\""
 }
 
 
-key_a="lr"
-key_b="rlll"
-key_c="rlrl"
-key_d="rll"
-key_e="l"
-key_f="llrl"
-key_g="rrl"
-key_h="llll"
-key_i="ll"
-key_j="lrrr"
-key_k="rlr"
-key_l="lrll"
-key_m="rr"
-key_n="rl"
-key_o="rr"
-key_p="lrrl"
-key_q="rrlr"
-key_r="lrl"
-key_s="lll"
-key_t="r"
-key_u="llr"
-key_v="lllr"
-key_w="lrr"
-key_x="rllr"
-key_y="rlrr"
-key_z="rrll"
-key_1="lrrrr"
-key_2="llrrr"
-key_3="lllrr"
-key_4="llllr"
-key_5="lllll"
-key_6="rllll"
-key_7="rrlll"
-key_8="rrrll"
-key_9="rrrrl"
-key_0="rrrrr"
 
-key_full_stop="lrlrlr"
-key_comma="rrllrr"
-key_question_mark="rrllrr"
-
-
-
-
-print_flag = 0
 difference_in_time = 0
 code_current = ""
 text_input = ""
-
-
-
-
 
 
 
@@ -167,22 +149,71 @@ class myThread_time (threading.Thread):
         #print "Exiting " + self.name
 
 def print_time(threadName):
-    #code_current=""
+    global last_time
+
+    global code_current
+    global text_input
+    global last_input
+    global key_codes
+
+    code_current = ""
+    last_code_current = ""
+    text_input = ""
+    last_input = ""
+
+
+    #long int, long int, unsigned short, unsigned short, unsigned int
+    FORMAT = 'llHHI'
+    EVENT_SIZE = struct.calcsize(FORMAT)
+
+    #open file in binary mode
+    in_file = open(infile_path, "rb")
+
+    event = in_file.read(EVENT_SIZE)
+
+
     while True:
-        time.sleep(1)
+	#(tv_sec, tv_usec, type, code, value) = struct.unpack(FORMAT, event)
+
         #time.sleep(delay)
         #print "%s: %s" % (threadName, time.ctime(time.time()))
-        print "%s time: %f" % (threadName, time.time())
-        print "%s difference_in_time: %f" % (threadName, difference_in_time)
+ #       print "%s time: %f" % (threadName, time.time())
+ #       print "%s difference_in_time: %f" % (threadName, difference_in_time)
+
+
+
+	#this_time = float( str(tv_sec) + "." + str(tv_usec) )
+	dt= datetime.now()
+	#this_sys_time = float( str(dt.second) + "." + str(dt.microsecond) )
+	this_sys_time = float( str(int(dt.strftime("%s"))) + "." + str(dt.microsecond) )
+	difference_in_time = this_sys_time - last_time
+
+	print ("TIME - last time %f" % last_time)
+	print ("TIME - this sys time %f" % this_sys_time)
+	print ("TIME - difference in time %f" % difference_in_time)
+
+	if (difference_in_time > 1.0): 
+	    if key_codes.has_key(code_current) :
+		text_input = text_input + key_codes[code_current]
+
+		last_input = key_codes[code_current]
+		last_code_current = code_current
+	    code_current = ""
+
+	print "TIME - last code current: " + last_code_current
+	print "TIME - last input: " + last_input 
+	print "TIME - text: " + text_input 
+	print "TIME - code_current: " +  code_current
 	
 
 	#if difference_in_time > 1.0: 
 	#    code_current = ""
 
-	print "thread-time: " + text_input
+	#print "thread-time: " + text_input
 	#print "thread-time: " + key_codes[code_current]
 	#print float(time())
 
+        time.sleep(1)
 
 
 
@@ -201,25 +232,26 @@ class myThread_event (threading.Thread):
     def do_something(self):
 	#time.sleep(1)
         #print "Starting " + self.name
-        print_event(self.name, 5)
+        #print_event(self.name, 5)
+        print_event(self.name)
         #print "Exiting " + self.name
 
 
-def print_event(threadName, counter):
-    global difference_in_time
-    global text_input
+#def print_event(threadName, counter):
+def print_event(threadName):
+    global last_time
 
     global code_current
+    global text_input
     global key_codes
+    global flag_click
+
     code_current = ""
     text_input = ""
 
-    #usage: python main.py 21
-    #/dev/input$ls -1 event*        //mouse plugged in and out
-    #infile_path = "/dev/input/event" + (sys.argv[1] if len(sys.argv) > 1 else "0")
-
-    #infile_path = "/dev/input/event3"
-    infile_path = "/dev/input/event22"
+    last_time = 0
+    flag_click = 0
+    flag_code = 0
 
     #long int, long int, unsigned short, unsigned short, unsigned int
     FORMAT = 'llHHI'
@@ -228,12 +260,11 @@ def print_event(threadName, counter):
     #open file in binary mode
     in_file = open(infile_path, "rb")
 
-    event = in_file.read(EVENT_SIZE)
 	
-    last_time=0
-
     #while 1:
-    while event:
+    while True:
+    #while event:
+    	event = in_file.read(EVENT_SIZE)
 
 	(tv_sec, tv_usec, type, code, value) = struct.unpack(FORMAT, event)
 
@@ -257,37 +288,56 @@ def print_event(threadName, counter):
 		this_time = float( str(tv_sec) + "." + str(tv_usec) )
 		#print ("seconds %d" % float(tv_sec))
 		#print ("useconds %d" % float(tv_usec))
-		print ("this time %f" % this_time)
+		print ("EVENT - this time %f" % this_time)
 		#print ("this time %d" % this_time)
 
 
-		if code == left: 
-		    if value == down: print "left down"
-		    if value == up: print "left up"
-		    #print str(tv_sec) + "." + str(tv_usec)
-		    code_l_or_r = "l"
-    #                print "l"
-		if code == right: 
-		    if value == down: print "right down"
-		    if value == up: print "right up"
-		    code_l_or_r = "r"
-    #                print "r"
+		if (code == left): 
+		    if (value == down):
+			print "EVENT - left down"
+			flag_click = 1
+                    elif (value == up):
+			print "EVENT - left up"
+			#print "EVENT - flag click: " + str(flag_click)
+			if (flag_click == 1):
+			    code_l_or_r = "l"
+			    flag_click = 0
+			    flag_code = 1
 
+		elif (code == right): 
+		    if (value == down):
+			print "EVENT - right down"
+			flag_click = 1
+		    elif (value == up):
+			print "EVENT - right up"
+			if (flag_click == 1):
+		    	    code_l_or_r = "r"
+			    flag_click = 0
+			    flag_code = 1
+			
 
 		difference_in_time = this_time - last_time
-		print ("difference in time %f" % difference_in_time)
-		if difference_in_time > 1.0: 
+		print ("EVENT - difference in time %f" % difference_in_time)
+		if (difference_in_time > 1.0): 
 		#if difference_in_time > 1.0 and code_current != "": 
-		    text_input = text_input + key_codes[code_current]
-		    print "thread-event: " + text_input 
-		    counter = 0
+		    #voir si code_current existe?
+		    #http://www.tutorialspoint.com/python/python_dictionary.htm
+			#dict.has_key(key)
+			#Returns true if key in dictionary dict, false otherwise
+		    if key_codes.has_key(code_current) :
+			text_input = text_input + key_codes[code_current]
+			print "EVENT - text: " + text_input 
+		    #counter = 0
 		    code_current = ""
-		elif difference_in_time < 0.5:
-		    code_current = code_current + code_l_or_r
+		#elif difference_in_time < 0.5:
+		else:
+    		    if (flag_code == 1):
+			code_current = code_current + code_l_or_r
+			flag_code = 0
 
-		print code_current
+	    	    print "EVENT - code_current: " +  code_current
+		    print "\n"
 
-		print_flag = 0
 		last_time = this_time
 
 
@@ -301,7 +351,7 @@ def print_event(threadName, counter):
 	    # Events with code, type and value == 0 are "separator" events
     #        print("===========================================")
 
-	event = in_file.read(EVENT_SIZE)
+	#event = in_file.read(EVENT_SIZE)
 
     in_file.close()
 

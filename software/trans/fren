@@ -1,0 +1,5 @@
+echo
+echo "$@"
+echo "----"
+echo "$@" | apertium fr-es | apertium es-en
+echo

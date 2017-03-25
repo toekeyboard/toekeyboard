@@ -10,15 +10,18 @@ IRC channel: #toekeyboard on freenode
 
 ## Requirements ##
 
+	espeak - Multi-lingual software speech synthesizer
+	mbrola - Multilingual software speech synthesizer
+
 	apertium - Shallow-transfer machine translation engine
 	dictd - dictionary server
-	espeak - Multi-lingual software speech synthesizer
+
 	surfraw - fast unix command line interface to WWW
+	w3m - WWW browsable pager with excellent tables/frames support
+
 
 In Debian/Ubuntu:
 
         apt install <programs seperated by spaces>
 
-
-
-Version: 2017-03-23
+Version: 2017-03-25

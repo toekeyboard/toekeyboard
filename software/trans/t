@@ -1,0 +1,39 @@
+phrase="$@"
+
+pair=`cat pair`
+
+#http://serverfault.com/questions/7503/how-to-determine-if-a-bash-variable-is-empty#7509
+#si n'a pas de phrase
+
+#dict -D
+#-D --dbs                  show available databases
+
+if [ -z "$phrase" ]
+then
+	echo
+        echo [$pair]
+
+elif 
+	[ "$phrase" == "deen" ] || 
+	[ "$phrase" == "ende" ] ||
+	[ "$phrase" == "enes" ] ||
+	[ "$phrase" == "enfr" ] ||
+	[ "$phrase" == "enit" ] ||
+	[ "$phrase" == "enpt" ] ||
+	[ "$phrase" == "esen" ] ||
+	[ "$phrase" == "esfr" ] ||
+	[ "$phrase" == "fren" ] ||
+	[ "$phrase" == "fres" ] ||
+	[ "$phrase" == "pten" ] ||
+	[ "$phrase" == "todo" ]
+then
+	echo
+	echo $phrase > pair
+	echo [$phrase]
+
+else
+	$pair $@
+	echo [$pair]
+fi
+
+

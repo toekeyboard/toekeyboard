@@ -1,0 +1,51 @@
+dict -D
+
+apertium -l		
+#http://wiki.apertium.org/wiki/List_of_language_pairs
+
+
+
+
+echo "-----English------------------------English--------------------------------"; 
+dict -d gcide $1
+
+
+echo "-----Deutsch------------------------Deutsch-----------------------Deutsch---------"; 
+dict -d fd-eng-deu $1
+
+echo "-----Deutsch------------------------Deutsch-----------------------Deutsch---------"; 
+dict -d english-german $1
+
+echo "-----Francais-----------------------Francais----------------------Francais--------"; 
+dict -d fd-eng-fra $1
+
+echo "-----Espanol------------------------Espanol-----------------------Espanol---------"; 
+dict -d fd-eng-spa $1
+
+echo "-----es-en Apertium------------------------Espanol Apertium-----------------------Espanol Apertium---------"; 
+echo "$@" | apertium es-en
+
+echo "-----en-es Apertium------------------------Espanol Apertium-----------------------Espanol Apertium---------"; 
+echo "$@" | apertium en-es
+
+echo "-----fr-es Apertium------------------------Espanol Apertium-----------------------Espanol Apertium---------"; 
+echo "$@" | apertium fr-es
+
+
+#echo "-------------------------------------------"; dict -d $1 $2
+
+
+#echo "-------------------------------------------"; dict -d fd-eng-spa toilet
+
+#fd-eng-spa
+#fd-eng-fra
+#fd-fra-deu
+#german-english
+#fd-eng-deu
+#english-german
+
+#wajig install wogerman wngerman wgerman-medical
+#pkill dict; /etc/init.d/dictd start
+#dict -D
+#wajig install dict-de-en
+

@@ -1,0 +1,3 @@
+dict -d fd-eng-deu $1
+dict -d english-german $1
+

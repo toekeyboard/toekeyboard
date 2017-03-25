@@ -1,0 +1,3 @@
+#dict -D
+dict -d fd-deu-eng $1
+
