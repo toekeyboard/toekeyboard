@@ -15,11 +15,11 @@ import os, sys
 #infile_path = "/dev/input/event" + (sys.argv[1] if len(sys.argv) > 1 else "0")
 
 infile_path = "/dev/input/event12"      #wired mouse
-#infile_path = "/dev/input/event14"     #wifi mouse
+#infile_path = "/dev/input/event14"     #bluetooth mouse
 
 #debug = 0 #mots
-#debug = 1 #codes et mots
-debug = 2 #temps, codes et mots
+debug = 1 #codes et mots
+#debug = 2 #temps, codes et mots
 
 left = 272
 right = 273
@@ -151,6 +151,9 @@ def print_time(threadName):
     text_input = ""
     last_input = ""
 
+    global flag_space
+    flag_space = 0
+
 
     #long int, long int, unsigned short, unsigned short, unsigned int
     FORMAT = 'llHHI'
@@ -186,7 +189,13 @@ def print_time(threadName):
 
 		last_input = key_codes[code_current]
 		last_code_current = code_current
+                flag_space = 1
 	    code_current = ""
+
+	if( (difference_in_time > 4.0) and (flag_space == 1) ): 
+            #mettre espace, apres 4 secondes
+            text_input = text_input + " "
+            flag_space = 0
 
         if (debug == 2):
             print ("TIME - last time %f" % last_time)
