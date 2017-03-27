@@ -10,6 +10,10 @@ IRC channel: #toekeyboard on freenode
 
 ## Requirements ##
 
+	python-alsaaudio - Alsa bindings for Python
+	python-pyaudio - Python bindings for PortAudio v19
+	libportaudio2 - Portable audio I/O - shared library
+
 	espeak - Multi-lingual software speech synthesizer
 	mbrola - Multilingual software speech synthesizer
 
@@ -24,4 +28,4 @@ In Debian/Ubuntu:
 
         apt install <programs seperated by spaces>
 
-Version: 2017-03-25
+Version: 2017-03-27

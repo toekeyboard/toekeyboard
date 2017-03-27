@@ -11,7 +11,7 @@ from datetime import datetime
 import os, sys
 
 #usage: python main.py 21
-#/dev/input$ls -1 event*        //mouse plugged in and out
+#$ls -1 /dev/input/event*        //mouse plugged in and out
 #infile_path = "/dev/input/event" + (sys.argv[1] if len(sys.argv) > 1 else "0")
 
 #infile_path = "/dev/input/event3"
@@ -23,16 +23,16 @@ infile_path = "/dev/input/event12"
 
 
 
-global difference_in_time
-global text_input
+#global difference_in_time
+#global text_input
 
-global this_time
+#global this_time
 #global last_time
 
 #global code_current
 #global key_codes
 
-global flag_click
+#global flag_click
 
 
 
@@ -45,6 +45,12 @@ right = 273
 down = 1
 up = 0
 last_time=0
+
+
+difference_in_time = 0
+code_current = ""
+text_input = ""
+
 
 
 # https://en.wikipedia.org/wiki/Morse_code#Letters.2C_numbers.2C_punctuation.2C_prosigns_for_Morse_code_and_non-English_variants
@@ -88,14 +94,6 @@ key_codes = {
     "rrrrl" : "9",
     "rrrrr" : "0",
 
-
-    #filler so not undefined
-    #"" : "",
-    #"llrr" : "[dah]",   
-    #"lrlr" : "[dah]",
-    #"rrrl" : "[dit]",
-    #"rrrr" : "[dah]",
-
     "lrlrlr" : ".", #full_stop
     "rlrlrl" : ";", #semicolon
 
@@ -119,14 +117,11 @@ key_codes = {
     "lrlll" : "&",
     "rrrlll" : ":",
     "llrrlr" : "_",
-    "lrllrl" : "\""
+    "lrllrl" : "\"",
+
+    "lllrllr" : "$"
 }
 
-
-
-difference_in_time = 0
-code_current = ""
-text_input = ""
 
 
 
@@ -185,12 +180,10 @@ def print_time(threadName):
 	#this_time = float( str(tv_sec) + "." + str(tv_usec) )
 	dt= datetime.now()
 	#this_sys_time = float( str(dt.second) + "." + str(dt.microsecond) )
+
+	# http://stackoverflow.com/questions/6999726/how-can-i-convert-a-datetime-object-to-milliseconds-since-epoch-unix-time-in-p#11111177
 	this_sys_time = float( str(int(dt.strftime("%s"))) + "." + str(dt.microsecond) )
 	difference_in_time = this_sys_time - last_time
-
-	print ("TIME - last time %f" % last_time)
-	print ("TIME - this sys time %f" % this_sys_time)
-	print ("TIME - difference in time %f" % difference_in_time)
 
 	if (difference_in_time > 1.0): 
 	    if key_codes.has_key(code_current) :
@@ -200,18 +193,18 @@ def print_time(threadName):
 		last_code_current = code_current
 	    code_current = ""
 
+	print ("TIME - last time %f" % last_time)
+	print ("TIME - this sys time %f" % this_sys_time)
+	print ("TIME - difference in time %f" % difference_in_time)
+
 	print "TIME - last code current: " + last_code_current
 	print "TIME - last input: " + last_input 
-	print "TIME - text: " + text_input 
+	print "--------------------------------------------------------------------------- TIME - text: " + text_input 
 	print "TIME - code_current: " +  code_current
 	
+	#print text_input 
 
-	#if difference_in_time > 1.0: 
-	#    code_current = ""
 
-	#print "thread-time: " + text_input
-	#print "thread-time: " + key_codes[code_current]
-	#print float(time())
 
         time.sleep(1)
 
@@ -280,16 +273,17 @@ def print_event(threadName):
 
 	if type != 0 or code != 0 or value != 0:
 	    if type != 2 and type !=4:
-    #            counter = counter + 1
-    #            print counter
 
 		#this_time = float(tv_sec) + float(tv_usec)
 		#this_time = float(str(tv_sec) + "." + str(tv_usec))
-		this_time = float( str(tv_sec) + "." + str(tv_usec) )
 		#print ("seconds %d" % float(tv_sec))
 		#print ("useconds %d" % float(tv_usec))
+
+
+		this_time = float( str(tv_sec) + "." + str(tv_usec) )
 		print ("EVENT - this time %f" % this_time)
-		#print ("this time %d" % this_time)
+
+		print ("++++++++++++++++++++++++++EVENT - code %d" % code)
 
 
 		if (code == left): 
@@ -298,7 +292,7 @@ def print_event(threadName):
 			flag_click = 1
                     elif (value == up):
 			print "EVENT - left up"
-			#print "EVENT - flag click: " + str(flag_click)
+			print "EVENT - flag click: " + str(flag_click)
 			if (flag_click == 1):
 			    code_l_or_r = "l"
 			    flag_click = 0
