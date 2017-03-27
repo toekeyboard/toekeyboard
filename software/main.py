@@ -14,12 +14,24 @@ import os, sys
 #$ls -1 /dev/input/event*        //mouse plugged in and out
 #infile_path = "/dev/input/event" + (sys.argv[1] if len(sys.argv) > 1 else "0")
 
-#infile_path = "/dev/input/event3"
-infile_path = "/dev/input/event12"
+infile_path = "/dev/input/event12"      #wired mouse
+#infile_path = "/dev/input/event14"     #wifi mouse
+
+#debug = 0 #mots
+#debug = 1 #codes et mots
+debug = 2 #temps, codes et mots
+
+left = 272
+right = 273
+#counter = 0
+down = 1
+up = 0
+last_time=0
 
 
-
-
+difference_in_time = 0
+code_current = ""
+text_input = ""
 
 
 
@@ -33,23 +45,6 @@ infile_path = "/dev/input/event12"
 #global key_codes
 
 #global flag_click
-
-
-
-
-
-
-left = 272
-right = 273
-#counter = 0
-down = 1
-up = 0
-last_time=0
-
-
-difference_in_time = 0
-code_current = ""
-text_input = ""
 
 
 
@@ -193,16 +188,21 @@ def print_time(threadName):
 		last_code_current = code_current
 	    code_current = ""
 
-	print ("TIME - last time %f" % last_time)
-	print ("TIME - this sys time %f" % this_sys_time)
-	print ("TIME - difference in time %f" % difference_in_time)
+        if (debug == 2):
+            print ("TIME - last time %f" % last_time)
+            print ("TIME - this sys time %f" % this_sys_time)
+            print ("TIME - difference in time %f" % difference_in_time)
 
-	print "TIME - last code current: " + last_code_current
-	print "TIME - last input: " + last_input 
-	print "--------------------------------------------------------------------------- TIME - text: " + text_input 
-	print "TIME - code_current: " +  code_current
-	
-	#print text_input 
+            print "TIME - last code current: " + last_code_current
+            print "TIME - last input: " + last_input 
+            print "---- TIME - text: " + text_input 
+            print "TIME - code_current: " +  code_current
+            print "\n"
+        elif (debug == 1):    
+	    print code_current
+	    print "----" + text_input 
+        else:  #(debug == 0)   
+	    print text_input 
 
 
 
@@ -281,18 +281,13 @@ def print_event(threadName):
 
 
 		this_time = float( str(tv_sec) + "." + str(tv_usec) )
-		print ("EVENT - this time %f" % this_time)
-
-		print ("++++++++++++++++++++++++++EVENT - code %d" % code)
-
 
 		if (code == left): 
 		    if (value == down):
-			print "EVENT - left down"
+			#print "EVENT - left down"
 			flag_click = 1
                     elif (value == up):
-			print "EVENT - left up"
-			print "EVENT - flag click: " + str(flag_click)
+			#print "EVENT - left up"
 			if (flag_click == 1):
 			    code_l_or_r = "l"
 			    flag_click = 0
@@ -300,18 +295,17 @@ def print_event(threadName):
 
 		elif (code == right): 
 		    if (value == down):
-			print "EVENT - right down"
 			flag_click = 1
 		    elif (value == up):
-			print "EVENT - right up"
+			#print "EVENT - right up"
 			if (flag_click == 1):
-		    	    code_l_or_r = "r"
+    		    	    code_l_or_r = "r"
 			    flag_click = 0
 			    flag_code = 1
 			
 
 		difference_in_time = this_time - last_time
-		print ("EVENT - difference in time %f" % difference_in_time)
+
 		if (difference_in_time > 1.0): 
 		#if difference_in_time > 1.0 and code_current != "": 
 		    #voir si code_current existe?
@@ -320,7 +314,6 @@ def print_event(threadName):
 			#Returns true if key in dictionary dict, false otherwise
 		    if key_codes.has_key(code_current) :
 			text_input = text_input + key_codes[code_current]
-			print "EVENT - text: " + text_input 
 		    #counter = 0
 		    code_current = ""
 		#elif difference_in_time < 0.5:
@@ -329,8 +322,13 @@ def print_event(threadName):
 			code_current = code_current + code_l_or_r
 			flag_code = 0
 
-	    	    print "EVENT - code_current: " +  code_current
-		    print "\n"
+                if (debug == 2):
+                    print "++++EVENT - this time %f" % this_time
+                    print "++++++++++++++++++++++++++EVENT - code %d" % code
+                    print "++++EVENT - difference in time %f" % difference_in_time
+                    print "++++EVENT - text: " + text_input 
+                    print "++++EVENT - code_current: " +  code_current
+                    print "\n"
 
 		last_time = this_time
 
