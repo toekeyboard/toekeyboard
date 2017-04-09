@@ -14,10 +14,12 @@ IRC channel: #toekeyboard on freenode
 	python-pyaudio - Python bindings for PortAudio v19
 	libportaudio2 - Portable audio I/O - shared library
 
+
 	espeak - Multi-lingual software speech synthesizer
 		https://en.wikipedia.org/wiki/ESpeakNG
 	mbrola - Multilingual software speech synthesizer
 		https://en.wikipedia.org/wiki/MBROLA
+
 
 	apertium - Shallow-transfer machine translation engine
 		https://en.wikipedia.org/wiki/Apertium
