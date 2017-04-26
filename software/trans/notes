@@ -1,0 +1,79 @@
+$apertium -l | grep en-
+
+  ca-en-multi
+  en-ca
+        ----ca
+                Indo-European   Catalan         català
+  en-ca-multi
+  en-eo-bytecode
+  en-eo
+        ----eo
+                Constructed     Esperanto       Esperanto       
+  en-es
+        ----es
+                Indo-European   Spanish         español
+  en-gl
+        ----gl
+                Indo-European   Galician        galego
+  eo-en-bytecode
+  val-en-ca
+
+
+$apertium -l | grep es-
+
+  ast-es-pn
+  ca-es-multi
+  eco-es-fr
+  es-ast
+  es-ast-pn
+  es-ca
+  es-ca-multi
+  es-ca_valencia
+  es-en
+  es-en_US
+  es-eo
+  es-eo-no_cg
+  es-fr
+        ----fr
+                Indo-European   French  français, langue française
+  es-gl
+  es-it
+        ----it
+                Indo-European   Italian         italiano
+  es-oc_aran
+  es-oc
+  es-pt_BR
+  es-pt
+        ----pt
+                Indo-European   Portuguese      Português
+  val-es-ca
+
+
+$apertium -l | grep en
+
+  ca-en
+  ca-en-multi
+  ca-en_US
+  cy-en
+  en-ca
+  en-ca-multi
+  en-eo-bytecode
+  en-eo
+  en-es
+  eng-hbs_BS
+  eng-hbs_HR
+  eng-hbs
+  eng-hbs_SR
+  en-gl
+  eo-en-bytecode
+  eo-en
+  es-ca_valencia
+  es-en
+  es-en_US
+  eu-en
+  gl-en
+  hbs-eng
+  isl-eng
+  mk-en
+  val-en-ca
+

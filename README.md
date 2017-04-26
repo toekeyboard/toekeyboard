@@ -39,4 +39,4 @@ In Debian/Ubuntu:
 
         apt install <programs seperated by spaces>
 
-Version: 2017-04-09
+Version: 2017-04-26
