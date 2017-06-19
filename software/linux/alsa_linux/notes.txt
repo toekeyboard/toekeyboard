@@ -1,0 +1,4 @@
+python-alsaaudio - Alsa bindings for Python
+python-pyaudio - Python bindings for PortAudio v19
+libportaudio2 - Portable audio I/O - shared library
+

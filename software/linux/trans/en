@@ -1,0 +1,12 @@
+echo
+echo "----"
+echo -n "en: "; echo "$@"
+echo "----"
+echo -n "es: "; echo "$@" | apertium en-es
+echo -n "pt: "; echo "$@" | apertium en-es | apertium es-pt
+echo -n "it: "; echo "$@" | apertium en-es | apertium es-it
+echo -n "fr: "; echo "$@" | apertium en-es | apertium es-fr
+echo -n "ca: "; echo "$@" | apertium en-ca
+echo -n "gl: "; echo "$@" | apertium en-gl
+echo -n "eo: "; echo "$@" | apertium en-eo
+echo

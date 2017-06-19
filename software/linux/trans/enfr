@@ -1,0 +1,15 @@
+echo
+echo "----"
+echo
+dict -d fd-eng-fra $1
+echo
+echo "----"
+echo
+echo "$@"
+echo
+echo "----"
+echo
+echo "$@" | apertium en-es | apertium es-fr
+echo
+echo "----"
+echo
