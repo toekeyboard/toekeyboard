@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Direct Dictaphone</string>
+    <string name="menu_listen">Escuchar</string>
+    <string name="menu_prefs">Preferencias</string>
+    <string name="prefs_end_sound">Sonido al empezar a grabar</string>
+    <string name="you_have">Tienes</string>
+    <string name="note">nota</string>
+    <string name="notes">notas</string>
+    <string name="recording">Grabando…</string>
+    <string name="ready_to_record">Listo a grabar</string>
+    <string name="instructions1_recording">Para terminar la grabación, toca el punto rojo</string>
+    <string name="instructions2_recording"> o </string>
+    <string name="instructions3_recording">Para cancelar, toca aquí</string>
+    <string name="instructions1_stopped">Para empezar la grabación, toca el punto rojo</string>
+    <string name="instructions2_stopped"> o </string>
+    <string name="instructions3_stopped">Para escuchar las notas, abre el menú</string>
+    <string name="cancelled">Grabación cancelada</string>
+    <string name="no_note">No hay nota !</string>
+    <string name="no_sd_card">No se encuentra la SD card !</string>
+    <string name="context_menu_delete">Borrar</string>
+    <string name="context_menu_delete_all">Borrar todo</string>
+    <string name="context_menu_send">Enviar</string>
+    <string name="context_menu_mark_unread">Marcar como no leída</string>
+    <string name="send_with">Enviar con :</string>
+    <string name="prefs_confirm_delete">Preguntar antes de borrar notas</string>
+    <string name="confirm_delete">Borrar nota ?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="deleted">Borrado</string>
+    <string name="max_recording_time_title">Max tiempo de grabación</string>
+    <string name="max_recording_time_summary">(45 segundos por defecto)</string>
+    <string name="invalid_number">Número no válido</string>
+    <string name="stop_on_silence">Parar si silencio</string>
+</resources>

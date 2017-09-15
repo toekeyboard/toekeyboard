@@ -2,7 +2,7 @@ echo
 echo -n "en: "; echo "$@" | apertium eo-en
 echo -n "es: "; echo "$@" | apertium eo-en | apertium en-es
 echo -n "pt: "; echo "$@" | apertium eo-en | apertium en-es | apertium es-pt
-echo -n "it: "; echo "$@" | apertium eo-en | apertium en-es | apertium es-it
+echo -n "it: "; echo "$@" | apertium eo-en | apertium en-es | apertium spa-ita
 echo -n "fr: "; echo "$@" | apertium eo-en | apertium en-es | apertium es-fr
 echo -n "ca: "; echo "$@" | apertium eo-en | apertium en-ca
 echo -n "gl: "; echo "$@" | apertium eo-en | apertium en-gl

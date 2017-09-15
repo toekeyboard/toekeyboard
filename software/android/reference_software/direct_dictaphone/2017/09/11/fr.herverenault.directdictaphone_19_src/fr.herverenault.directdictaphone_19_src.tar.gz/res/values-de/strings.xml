@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Direct Dictaphone</string>
+    <string name="menu_listen">Hören</string>
+    <string name="menu_prefs">Einstellungen</string>
+    <string name="prefs_end_sound">Klang am Ende Aufnahme</string>
+    <string name="you_have">Sie haben</string>
+    <string name="note">Notiz</string>
+    <string name="notes">Notizen</string>
+    <string name="recording">Aufnehmen…</string>
+    <string name="ready_to_record">Bereit !</string>
+    <string name="instructions1_recording">Um zu stoppen, Berühren Sie den roten Punkt</string>
+    <string name="instructions2_recording"> oder </string>
+    <string name="instructions3_recording">Um abzubrechen, Berühren Sie hier</string>
+    <string name="instructions1_stopped">Um zu starten, Berühren Sie den roten Punkt</string>
+    <string name="instructions2_stopped"> oder </string>
+    <string name="instructions3_stopped">Um Notizen anzuhören, öffnen Sie das Menü</string>
+    <string name="cancelled">Aufnahme abgebrochen</string>
+    <string name="no_note">Keine Notiz !</string>
+    <string name="no_sd_card">SD-Karte nicht gefunden !</string>
+    <string name="context_menu_delete">Löschen</string>
+    <string name="context_menu_delete_all">Löschen alles</string>
+    <string name="context_menu_send">Senden</string>
+    <string name="context_menu_mark_unread">Als ungelesen markieren</string>
+    <string name="send_with">Senden durch :</string>
+    <string name="prefs_confirm_delete">Vor dem Löschen Notiz fragen</string>
+    <string name="confirm_delete">Notiz löschen ?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="deleted">Gelöscht</string>
+    <string name="max_recording_time_title">Max Aufnahmezeit</string>
+    <string name="max_recording_time_summary">(Standardmäßig 45 Sekunden)</string>
+    <string name="invalid_number">Ungültige Nummer</string>
+    <string name="stop_on_silence">Stopp bei Stille</string>
+</resources>

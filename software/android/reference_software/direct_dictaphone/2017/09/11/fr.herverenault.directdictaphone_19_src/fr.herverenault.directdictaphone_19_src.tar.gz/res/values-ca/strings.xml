@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Direct Dictaphone</string>
+    <string name="menu_listen">Escoltar</string>
+    <string name="menu_prefs">Preferències</string>
+    <string name="prefs_end_sound">So en acabar la gravació</string>
+    <string name="you_have">Té</string>
+    <string name="note">nota</string>
+    <string name="notes">notes</string>
+    <string name="recording">Gravant…</string>
+    <string name="ready_to_record">Llest per gravar</string>
+    <string name="instructions1_recording">Toqueu el punt vermell per aturar la gravació</string>
+    <string name="instructions2_recording"> o </string>
+    <string name="instructions3_recording">Toqueu aquí per cancel·lar</string>
+    <string name="instructions1_stopped">Toqueu el punt vermell per començar la gravació</string>
+    <string name="instructions2_stopped"> o </string>
+    <string name="instructions3_stopped">Obriu el menú per escoltar notes</string>
+    <string name="cancelled">Gravació cancel·lat</string>
+    <string name="no_note">Cap nota !</string>
+    <string name="no_sd_card">No es troba la targeta SD !</string>
+    <string name="context_menu_delete">Esborrar</string>
+    <string name="context_menu_delete_all">Esborrar tots</string>
+    <string name="context_menu_send">Enviar</string>
+    <string name="context_menu_mark_unread">Marcar com no llegit</string>
+    <string name="send_with">Enviar amb :</string>
+    <string name="prefs_confirm_delete">Preguntar abans d\'esborrar notes</string>
+    <string name="confirm_delete">Estàs segur que vols esborrar?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="deleted">Esborrat</string>
+    <string name="max_recording_time_title">Max temps de gravació</string>
+    <string name="max_recording_time_summary">(45 segons per defecte)</string>
+    <string name="invalid_number">Nombre no vàlid</string>
+    <string name="stop_on_silence">Aturar si silenci</string>
+</resources>

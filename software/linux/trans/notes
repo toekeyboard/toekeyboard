@@ -37,7 +37,8 @@ $apertium -l | grep es-
         ----fr
                 Indo-European   French  français, langue française
   es-gl
-  es-it
+  spa-ita
+ # es-it
         ----it
                 Indo-European   Italian         italiano
   es-oc_aran

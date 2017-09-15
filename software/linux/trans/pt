@@ -4,7 +4,7 @@ echo -n "es: "; echo "$@" | apertium pt-es
 echo "----"
 echo -n "pt: "; echo "$@"
 echo "----"
-echo -n "it: "; echo "$@" | apertium pt-es | apertium es-it
+echo -n "it: "; echo "$@" | apertium pt-es | apertium spa-ita
 echo -n "fr: "; echo "$@" | apertium pt-es | apertium es-fr
 echo -n "ca: "; echo "$@" | apertium pt-ca
 echo -n "gl: "; echo "$@" | apertium pt-gl

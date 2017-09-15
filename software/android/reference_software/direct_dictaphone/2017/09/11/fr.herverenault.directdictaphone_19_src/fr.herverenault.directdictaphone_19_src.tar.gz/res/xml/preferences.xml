@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+    	android:defaultValue="true" 
+    	android:title="@string/prefs_end_sound"
+    	android:key="prefs_end_sound" />
+    <CheckBoxPreference
+    	android:defaultValue="true" 
+    	android:title="@string/prefs_confirm_delete" 
+    	android:key="prefs_confirm_delete" />
+    <EditTextPreference
+        android:key="max_recording_time"
+        android:title="@string/max_recording_time_title"
+        android:summary="@string/max_recording_time_summary"
+        android:inputType="number" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:title="@string/stop_on_silence"
+        android:key="stop_on_silence" />
+</PreferenceScreen>

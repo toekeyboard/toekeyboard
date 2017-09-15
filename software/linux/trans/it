@@ -1,11 +1,12 @@
 echo
-echo -n "en: "; echo "$@" | apertium it-es | apertium es-en
-echo -n "pt: "; echo "$@" | apertium it-es | apertium es-pt
+echo -n "en: "; echo "$@" | apertium ita-spa | apertium es-en
+echo -n "es: "; echo "$@" | apertium ita-spa
+echo -n "pt: "; echo "$@" | apertium ita-spa | apertium es-pt
 echo "----"
 echo -n "it: "; echo "$@"
 echo "----"
-echo -n "fr: "; echo "$@" | apertium it-es | apertium es-fr
+echo -n "fr: "; echo "$@" | apertium ita-spa | apertium es-fr
 echo -n "ca: "; echo "$@" | apertium it-ca
-echo -n "gl: "; echo "$@" | apertium it-es | apertium es-gl
-echo -n "eo: "; echo "$@" | apertium it-es | apertium es-eo
+echo -n "gl: "; echo "$@" | apertium ita-spa | apertium es-gl
+echo -n "eo: "; echo "$@" | apertium ita-spa | apertium es-eo
 echo

@@ -1,7 +1,8 @@
+#!/usr/bin/python
+
 #http://stackoverflow.com/questions/5060710/format-of-dev-input-event
 #https://www.tutorialspoint.com/python/python_multithreading.htm
 
-#!/usr/bin/python
 
 import threading
 import struct
@@ -14,7 +15,8 @@ import os, sys
 #$ls -1 /dev/input/event*        //mouse plugged in and out
 #infile_path = "/dev/input/event" + (sys.argv[1] if len(sys.argv) > 1 else "0")
 
-infile_path = "/dev/input/event12"      #wired mouse
+infile_path = "/dev/input/event23"     #mouse
+#infile_path = "/dev/input/event12"      #wired mouse
 #infile_path = "/dev/input/event14"     #bluetooth mouse
 
 #debug = 0 #mots
@@ -112,9 +114,9 @@ key_codes = {
     "lrlll" : "&",
     "rrrlll" : ":",
     "llrrlr" : "_",
-    "lrllrl" : "\"",
+    "lrllrl" : "\""
 
-    "lllrllr" : "$"
+#    "lllrllr" : "$"
 }
 
 
@@ -155,6 +157,7 @@ def print_time(threadName):
     flag_space = 0
 
 
+
     #long int, long int, unsigned short, unsigned short, unsigned int
     FORMAT = 'llHHI'
     EVENT_SIZE = struct.calcsize(FORMAT)
@@ -163,7 +166,6 @@ def print_time(threadName):
     in_file = open(infile_path, "rb")
 
     event = in_file.read(EVENT_SIZE)
-
 
     while True:
 	#(tv_sec, tv_usec, type, code, value) = struct.unpack(FORMAT, event)
@@ -379,6 +381,7 @@ def main(args):
             # Join all threads using a timeout so it doesn't block
             # Filter out threads which have been joined or are None
             threads = [t.join(1) for t in threads if t is not None and t.isAlive()]
+
         except KeyboardInterrupt:
             print "Ctrl-c received! Sending kill to threads..."
             for t in threads:

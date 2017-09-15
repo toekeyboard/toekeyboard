@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Direct Dictaphone</string>
+    <string name="menu_listen">Luisteren</string>
+    <string name="menu_prefs">Voorkeuren</string>
+    <string name="prefs_end_sound">Geluid bij het einde</string>
+    <string name="you_have">Je heeft</string>
+    <string name="note">notitie</string>
+    <string name="notes">notities</string>
+    <string name="recording">Opnemen…</string>
+    <string name="ready_to_record">Klaar !</string>
+    <string name="instructions1_recording">Raak de rode punt om te stoppen</string>
+    <string name="instructions2_recording"> of </string>
+    <string name="instructions3_recording">Raak hier om te annuleren</string>
+    <string name="instructions1_stopped">Raak de rode punt om te starten</string>
+    <string name="instructions2_stopped"> of </string>
+    <string name="instructions3_stopped">Open het menu om notities te horen</string>
+    <string name="cancelled">Opname geannuleerd</string>
+    <string name="no_note">Geen notities !</string>
+    <string name="no_sd_card">Geen SD-kaart gevonden !</string>
+    <string name="context_menu_delete">Verwijderen</string>
+    <string name="context_menu_delete_all">Verwijderen alles</string>
+    <string name="context_menu_send">Sturen</string>
+    <string name="context_menu_mark_unread">Markeren als ongelezen</string>
+    <string name="send_with">Sturen met :</string>
+    <string name="prefs_confirm_delete">Vraag voordat notitie te verwijderen</string>
+    <string name="confirm_delete">Notitie verwijderen ?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="deleted">Verwijderd</string>
+    <string name="max_recording_time_title">Max opnametijd</string>
+    <string name="max_recording_time_summary">(45 seconden standaard)</string>
+    <string name="invalid_number">Ongeldig nummer</string>
+    <string name="stop_on_silence">Stop op stilte</string>
+</resources>

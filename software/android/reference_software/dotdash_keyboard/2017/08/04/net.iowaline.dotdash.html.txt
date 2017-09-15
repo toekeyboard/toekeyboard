@@ -1,0 +1,153 @@
+[fdroid-log]
+
+F-Droid
+
+Browse Forum Docs News Issues Contribute About
+[net]
+
+DotDash Keyboard
+
+Morse code keyboard
+
+A Morse code keyboard, specifically designed for phones with small screens and
+slow CPUs. DotDash uses "untimed" Morse code so that CPU lag or stuttering
+won't interfere with input. With DotDash you can touchtype, error-free, on most
+Android phones.
+
+1. Type a letter by entering its series of dots and dashes 2. Press Space to
+end a letter and move on to the next one 3. Press Space twice to insert a space
+between words 4. Press Delete to clear the letter in progress, or delete the
+last letter typed if there is no letter in progress 5. Type the symbol ".-.-"
+for the Enter key
+
+DotDash keyboard includes a Morse code cheat sheet, which can be accessed by
+swiping up off the keyboard. It includes the standard English Morse code
+alphabet, plus custom expansions to encompass most of the keys on a standard
+QWERTY keyboard.
+
+Additional features are available in the OS's keyboard settings screen (under
+"Language & Input" on most Android versions):
+
+  • A utility keyboard with non-Morse characters and arrow keys, accessible by
+    swiping to the side
+  • Toggle auto-capitalization on or off
+  • Change the "Enter" symbol between ".-.-" and ".-.-.."
+
+License: GNU General Public License v3.0
+
+Website: https://github.com/agwells/dotdash-keyboard-android/blob/HEAD/
+README.md
+Issue Tracker: https://github.com/agwells/dotdash-keyboard-android/issues
+Source Code: https://github.com/agwells/dotdash-keyboard-android
+
+For full details and additional technical information, see this application's
+page on the F-Droid wiki.
+
+Packages
+
+Although APK downloads are available below to give you the choice, you should
+be aware that by installing that way you will not receive update notifications
+and it's a less secure way to download. We recommend that you install the
+F-Droid client and use that.
+
+Download F-Droid
+
+  • Version 1.2.1 (17) - Added on Dec 14, 2015
+
+    This version requires Android 1.6 or newer.
+
+    It is built and signed by F-Droid, and guaranteed to correspond to this
+    source tarball.
+
+    Download APK 88 KiB PGP Signature
+
+    Permissions
+
+  • Version 1.1.4 (11) - Added on Apr 25, 2012
+
+    This version requires Android 1.6 or newer.
+
+    It is built and signed by F-Droid, and guaranteed to correspond to this
+    source tarball.
+
+    Download APK 36 KiB PGP Signature
+
+    Permissions
+
+      □ BIND_INPUT_METHOD
+  • Version 1.1.3 (10) - Added on Apr 13, 2012
+
+    This version requires Android 1.6 or newer.
+
+    It is built and signed by F-Droid, and guaranteed to correspond to this
+    source tarball.
+
+    Download APK 36 KiB PGP Signature
+
+    Permissions
+
+      □ BIND_INPUT_METHOD
+
+Find Apps
+
+<span class="noscript"> You must have JavaScript enabled for search. </span> 
+
+Donate
+
+F-Droid is powered by your donations!
+
+  • Donate
+  • Flattr
+  • bitcoin
+  • 15u8aAPK4jJ5N8wpWJ5gutAyyeHtKX5i18
+  • Bank Transfer
+      □ Name: F-Droid Limited
+      □ IBAN: GB92 BARC 2056 7893 4088 92
+      □ SWIFT: BARCGB22
+
+Last updated
+
+[de]
+
+Another RSS
+
+reader for multiple RSS feeds in a single, searchable listUnlicense
+[ch]
+
+Anuto TD
+
+Another Ugly Tower DefenseGPL-2.0
+[com]
+
+Audio Recorder
+
+Record audio filesGPL-3.0
+
+Latest Apps
+
+[net]
+
+Authorizer
+
+Password Manager with USB Keyboard emulationGPL-3.0
+[org]
+
+AnySoftKeyboard: Czech
+
+Language pack for AnySoftKeyboardApache-2.0
+[com]
+
+Seafood Berserker!
+
+Seafood BerserkerGPL-3.0
+
+News
+
+  • A new UX 6 years in the making Apr 4, 2017
+  • Sailing into a new decade of discussions Feb 20, 2017
+  • F-Droid supports APK Expansion Files aka OBB Feb 20, 2017
+  • Client 0.102 released Dec 15, 2016
+  • Client 0.101 released Oct 3, 2016
+
+© 2010-2017 F-Droid Limited and Contributors (fdroid-website 0.3)
+

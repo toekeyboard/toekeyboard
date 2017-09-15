@@ -4,9 +4,10 @@ echo "----"
 echo -n "es: "; echo "$@"
 echo "----"
 echo -n "pt: "; echo "$@" | apertium es-pt
-echo -n "it: "; echo "$@" | apertium es-it
+echo -n "it: "; echo "$@" | apertium spa-ita
 echo -n "fr: "; echo "$@" | apertium es-fr
-echo -n "ca: "; echo "$@" | apertium es-ca
+#echo -n "ca: "; echo "$@" | apertium es-ca
+echo -n "ca: "; echo "$@" | apertium spa-cat
 echo -n "gl: "; echo "$@" | apertium es-gl
 echo -n "eo: "; echo "$@" | apertium es-eo
 echo
